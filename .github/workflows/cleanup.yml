@@ -1,4 +1,4 @@
-name: Monthly Cleanup
+name: Cleanup
 
 on:
   schedule:

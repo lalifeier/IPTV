@@ -304,6 +304,26 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 安徽国际,https://127.0.0.1:8080/ahtv/ahgj.m3u8
 安徽移动,https://127.0.0.1:8080/ahtv/ahyd.m3u8
 
+安徽公共频道,http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
+安徽国际频道,http://live.ahcartv.dev.geek-zoo.cn/live/gjtv.m3u8?txSecret=e628bcb47d7741b3a60c6793b7295d84&txTime=6861F1F6
+安徽经济生活频道,http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
+安徽农业科教频道,http://live.ahcartv.dev.geek-zoo.cn/live/nykjtv.m3u8?txSecret=4888aba85d563cfd8853ca0982febcbe&txTime=6861F1F6
+安徽影视频道,http://live.ahcartv.dev.geek-zoo.cn/live/ystv.m3u8?txSecret=e2c76086598b48e1fb4b6a823c69e2d5&txTime=6861F1F6
+安徽综艺体育频道,http://live.ahcartv.dev.geek-zoo.cn/live/zytytv.m3u8?txSecret=095c3ce3216bfda624ec4acce6e8a02c&txTime=6861F1F6
+宣城综合,http://live.ahcartv.dev.geek-zoo.cn/live/xctv.m3u8?txSecret=557e1b8654df9633a3ae3a61ab03dcdd&txTime=6861F813
+滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
+淮北新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/hbds.m3u8?txSecret=d932d52b91a3ed9d7135760bf36dc3d5&txTime=6861F813
+安庆新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/aqpd.m3u8?txSecret=068c51559e25e8891c14335dd58be9bc&txTime=6861F813
+铜陵新闻综合,https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
+宿州新闻综合,rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+吉安市广播电视台,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
+池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
+抚州市广播电视台,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
+芜湖新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/whpd.m3u8?txSecret=3e91d2caa6167710ed56b2d40ae75bd0&txTime=6861F813
+淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+亳州综合频道,http://zbbf2.ahbztv.com/live/416.m3u8
+
 湖北,#genre#
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
