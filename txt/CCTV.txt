@@ -1,23 +1,23 @@
 央视,#genre#
-CCTV-1 综合,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
-CCTV-1 综合,http://dsm.huarunguoji.top:35455/itv/5000000004000010282.m3u8?cdn=bestzb
-CCTV-2 财经,http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
-CCTV-3 综艺,http://dsm.huarunguoji.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
-CCTV-4 中文国际,http://dsm.huarunguoji.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
-CCTV-5 体育,http://dsm.huarunguoji.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
-CCTV-5+ 体育赛事,http://dsm.huarunguoji.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV-1 综合,http://home.wwang.pw:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-1 综合,http://home.wwang.pw:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+CCTV-2 财经,http://home.wwang.pw:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-3 综艺,http://home.wwang.pw:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV-4 中文国际,http://home.wwang.pw:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV-5 体育,http://home.wwang.pw:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV-5+ 体育赛事,http://home.wwang.pw:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://dsm.huarunguoji.top:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
-CCTV-8 电视剧,http://dsm.huarunguoji.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
-CCTV-9 纪录,http://dsm.huarunguoji.top:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
-CCTV-10 科教,http://dsm.huarunguoji.top:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
-CCTV-11 戏曲,http://dsm.huarunguoji.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
-CCTV-12 社会与法,http://dsm.huarunguoji.top:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV-7 国防军事,http://home.wwang.pw:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV-8 电视剧,http://home.wwang.pw:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV-9 纪录,http://home.wwang.pw:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV-10 科教,http://home.wwang.pw:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV-11 戏曲,http://home.wwang.pw:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV-12 社会与法,http://home.wwang.pw:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://dsm.huarunguoji.top:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
-CCTV-15 音乐,http://dsm.huarunguoji.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
-CCTV-16 奥林匹克,http://dsm.huarunguoji.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-CCTV-17 农业农村,http://dsm.huarunguoji.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV-14 少儿,http://home.wwang.pw:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV-15 音乐,http://home.wwang.pw:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV-16 奥林匹克,http://home.wwang.pw:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV-17 农业农村,http://home.wwang.pw:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-4K 超高清,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
 
 CGTN英语,https://0472.org/hls/cgtn.m3u8
