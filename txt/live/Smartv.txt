@@ -1,0 +1,267 @@
+Smartv,#genre#
+RTHK32,https://127.0.0.1:8080/smartv/rhk32_twn.m3u8
+RTHK31,https://127.0.0.1:8080/smartv/rhk31_twn.m3u8
+凤凰卫视,https://127.0.0.1:8080/smartv/phoenixtv_hd.m3u8
+无线财经资讯,https://127.0.0.1:8080/smartv/tvbcaijing_twn.m3u8
+VIUTV1,https://127.0.0.1:8080/smartv/viu1_twn.m3u8
+无线新闻,https://127.0.0.1:8080/smartv/inews_twn.m3u8
+龙华戏剧,https://127.0.0.1:8080/smartv/lunghuaxiju_twn.m3u8
+龙华偶像,https://127.0.0.1:8080/smartv/lunghuaidol_twn.m3u8
+龙华卡通,https://127.0.0.1:8080/smartv/jingtiancartoon_twn.m3u8
+非凡新闻,https://127.0.0.1:8080/smartv/feifannews_twn.m3u8
+美亚电影,https://127.0.0.1:8080/smartv/meiyamovie_twn.m3u8
+Arirang,https://127.0.0.1:8080/smartv/arirang_twn.m3u8
+好莱坞电影,https://127.0.0.1:8080/smartv/hollywoodmovies_twn.m3u8
+爱尔达体育2,https://127.0.0.1:8080/smartv/eltasport2_twn.m3u8
+爱尔达体育1,https://127.0.0.1:8080/smartv/eltasport_twn.m3u8
+民视新闻,https://127.0.0.1:8080/smartv/ftvnew_taiwan.m3u8
+民视台湾,https://127.0.0.1:8080/smartv/ftvtaiwan_twn.m3u8
+民视,https://127.0.0.1:8080/smartv/ftvhd_taiwan.m3u8
+年代新闻,https://127.0.0.1:8080/smartv/niandainews_twn.m3u8
+大爱1,https://127.0.0.1:8080/smartv/daai_twn.m3u8
+博斯高球2,https://127.0.0.1:8080/smartv/bosigolf2_twn.m3u8
+博斯运动2,https://127.0.0.1:8080/smartv/bosisport2_twn.m3u8
+博斯运动1,https://127.0.0.1:8080/smartv/bosisport1_twn.m3u8
+博斯网球,https://127.0.0.1:8080/smartv/bositennis_twn.m3u8
+华视,https://127.0.0.1:8080/smartv/ctshd_twn.m3u8
+公视,https://127.0.0.1:8080/smartv/ctv_taiwan.m3u8
+八大综合,https://127.0.0.1:8080/smartv/badazhonghe.m3u8
+中视新闻,https://127.0.0.1:8080/smartv/zhongshinews_twn.m3u8
+中视,https://127.0.0.1:8080/smartv/zhongshihd_twn.m3u8
+中天娱乐,https://127.0.0.1:8080/smartv/ctient.m3u8
+中天亚洲,https://127.0.0.1:8080/smartv/ctiasia_twn.m3u8
+东森超视,https://127.0.0.1:8080/smartv/ettvsuper.m3u8
+东森戏剧,https://127.0.0.1:8080/smartv/ettvdrama.m3u8
+三立综合,https://127.0.0.1:8080/smartv/sanlizhonghe.m3u8
+三立戏剧,https://127.0.0.1:8080/smartv/sanlixiju_twn.m3u8
+东森电影,https://127.0.0.1:8080/smartv/ettvmovie.m3u8
+东森综合,https://127.0.0.1:8080/smartv/ettvzhonghe.m3u8
+中天综合,https://127.0.0.1:8080/smartv/ctizhonghe.m3u8
+八大综合,https://127.0.0.1:8080/smartv/badazhonghe.m3u8
+八大戏剧,https://127.0.0.1:8080/smartv/badadrama.m3u8
+八大第一,https://127.0.0.1:8080/smartv/badafirst.m3u8
+小太阳,https://127.0.0.1:8080/smartv/Xiaotaiyang.m3u8
+靖天卡通,https://127.0.0.1:8080/smartv/jingtiancartoon_twn.m3u8
+靖天国际,https://127.0.0.1:8080/smartv/jingtianintl_twn.m3u8
+TVBS News,https://127.0.0.1:8080/smartv/tvbs_n.m3u8
+TVBS,https://127.0.0.1:8080/smartv/tvbs.m3u8
+EYETV戏剧,https://127.0.0.1:8080/smartv/eyetvxiju_twn.m3u8
+EYETV旅游,https://127.0.0.1:8080/smartv/eyetvtravel_twn.m3u8
+TVBS欢乐,https://127.0.0.1:8080/smartv/tvbshuanle_twn.m3u8
+Zee TV HD,https://127.0.0.1:8080/smartv/Zeetvhd.m3u8
+Warner TV,https://127.0.0.1:8080/smartv/WarnerTV.m3u8
+Viu6,https://127.0.0.1:8080/smartv/viusix_twn.m3u8
+Vasantham,https://127.0.0.1:8080/smartv/Vasantham.m3u8
+TvN,https://127.0.0.1:8080/smartv/TVN.m3u8
+True Premium 2 HD,https://127.0.0.1:8080/smartv/truepre2_pat.m3u8
+True Premium 1 HD,https://127.0.0.1:8080/smartv/truepre1_pat.m3u8
+Transtv,https://127.0.0.1:8080/smartv/Transtv.m3u8
+Trans 7,https://127.0.0.1:8080/smartv/Trans7_eko.m3u8
+Tnn24,https://127.0.0.1:8080/smartv/tnn24_pat.m3u8
+Thrill,https://127.0.0.1:8080/smartv/Thrill.m3u8
+Tawaf TV,https://127.0.0.1:8080/smartv/TawafTV.m3u8
+TVRI National,https://127.0.0.1:8080/smartv/TVRI.m3u8
+TVMU,https://127.0.0.1:8080/smartv/TVMU_eko.m3u8
+TV9,https://127.0.0.1:8080/smartv/TV9.m3u8
+TV9 Indonesia,https://127.0.0.1:8080/smartv/TV9_eko.m3u8
+TV8,https://127.0.0.1:8080/smartv/TV8.m3u8
+TV3,https://127.0.0.1:8080/smartv/TV3.m3u8
+TV3 backup,https://127.0.0.1:8080/smartv/TV3_backup.m3u8
+TV2,https://127.0.0.1:8080/smartv/TV2.m3u8
+TV1,https://127.0.0.1:8080/smartv/TV1.m3u8
+TPTV,https://127.0.0.1:8080/smartv/tptv_pat.m3u8
+TLC,https://127.0.0.1:8080/smartv/Tlc.m3u8
+Suria,https://127.0.0.1:8080/smartv/Suria.m3u8
+体育3,https://127.0.0.1:8080/smartv/Assp3.m3u8
+体育2,https://127.0.0.1:8080/smartv/Assp2.m3u8
+Sunnah HD,https://127.0.0.1:8080/smartv/sunnah_mido.m3u8
+Sun Music,https://127.0.0.1:8080/smartv/sunmusic_raj.m3u8
+Star Vijay,https://127.0.0.1:8080/smartv/Starvijay.m3u8
+Star Vijay India,https://127.0.0.1:8080/smartv/starvijay_raj.m3u8
+Sony Six HD,https://127.0.0.1:8080/smartv/sonysix_raj.m3u8
+Sony HD,https://127.0.0.1:8080/smartv/SetOne.m3u8
+Skynews,https://127.0.0.1:8080/smartv/skynews_antik.m3u8
+SCTV,https://127.0.0.1:8080/smartv/Sctv.m3u8
+SCM,https://127.0.0.1:8080/smartv/Weishimovie.m3u8
+RTM Sports HD,https://127.0.0.1:8080/smartv/Rtmsport.m3u8
+RCTI,https://127.0.0.1:8080/smartv/Rcti.m3u8
+Quran HD,https://127.0.0.1:8080/smartv/quran_mido.m3u8
+Prima,https://127.0.0.1:8080/smartv/Prima.m3u8
+Pick TV,https://127.0.0.1:8080/smartv/picktv_antik.m3u8
+PPTV Thailand1,https://127.0.0.1:8080/smartv/pptv_pat.m3u8
+One,https://127.0.0.1:8080/smartv/One.m3u8
+Oasis,https://127.0.0.1:8080/smartv/Oasis.m3u8
+Nickelodeon,https://127.0.0.1:8080/smartv/Nickelodeon.m3u8
+Nick Jr,https://127.0.0.1:8080/smartv/Nickjr.m3u8
+News 18 Tamil,https://127.0.0.1:8080/smartv/news18tamil_raj.m3u8
+New,https://127.0.0.1:8080/smartv/new_pat.m3u8
+Net TV,https://127.0.0.1:8080/smartv/NetTV.m3u8
+Nation,https://127.0.0.1:8080/smartv/nation_pat.m3u8
+国家地理,https://127.0.0.1:8080/smartv/natgeohd_twn.m3u8
+地理野生动物,https://127.0.0.1:8080/smartv/natgeowildtamil_raj.m3u8
+野生动物,https://127.0.0.1:8080/smartv/natgeowild_twn.m3u8
+地理野生动物,https://127.0.0.1:8080/smartv/Natgeowild.m3u8
+NatGeo Tamil,https://127.0.0.1:8080/smartv/natgeotamil_raj.m3u8
+国家地理,https://127.0.0.1:8080/smartv/Natgeo.m3u8
+More4,https://127.0.0.1:8080/smartv/more4_antik.m3u8
+Momo TV,https://127.0.0.1:8080/smartv/momo1_twn.m3u8
+MiaoMi,https://127.0.0.1:8080/smartv/MiaoMi.m3u8
+Metro TV,https://127.0.0.1:8080/smartv/metrotv_eko.m3u8
+Makkal TV,https://127.0.0.1:8080/smartv/Makkaltv.m3u8
+AXNTaiwan,https://127.0.0.1:8080/smartv/axn_twn.m3u8
+动物星球,https://127.0.0.1:8080/smartv/AnimalPlanet.m3u8
+动物星球1,https://127.0.0.1:8080/smartv/animalplanet_twn.m3u8
+Asianet,https://127.0.0.1:8080/smartv/asianet_raj.m3u8
+Awani,https://127.0.0.1:8080/smartv/Awani.m3u8
+AxnHD,https://127.0.0.1:8080/smartv/Axn.m3u8
+Cinemax,https://127.0.0.1:8080/smartv/cinemax_twn.m3u8
+CNBC,https://127.0.0.1:8080/smartv/cnbc_twn.m3u8
+CelestialMoviesHD,https://127.0.0.1:8080/smartv/Celestialindo.m3u8
+Channel3Thailand,https://127.0.0.1:8080/smartv/ch3_pat.m3u8
+DiscoveryAsia,https://127.0.0.1:8080/smartv/discoverytwn_twn.m3u8
+DiscoveryHD,https://127.0.0.1:8080/smartv/discoveryhd_twn.m3u8
+DiscoveryKidsTamil,https://127.0.0.1:8080/smartv/discoverykidtamil_raj.m3u8
+DiscoveryTurbo,https://127.0.0.1:8080/smartv/discoveryturbo_twn.m3u8
+DiscoveryWorldTamil,https://127.0.0.1:8080/smartv/discoveryworldtam_raj.m3u8
+BBC1,https://127.0.0.1:8080/smartv/bbc1_antik.m3u8
+BBC2,https://127.0.0.1:8080/smartv/bbc2_antik.m3u8
+BBCEarthHD,https://127.0.0.1:8080/smartv/bbcearth_twn.m3u8
+BBCEarthTamil,https://127.0.0.1:8080/smartv/bbcearthtam_raj.m3u8
+BBCWorldNews,https://127.0.0.1:8080/smartv/bbcnews_twn.m3u8
+BTESPN,https://127.0.0.1:8080/smartv/btespn.m3u8
+BTSports1,https://127.0.0.1:8080/smartv/beeone.m3u8
+BTSports3,https://127.0.0.1:8080/smartv/beethree.m3u8
+BloombergNews,https://127.0.0.1:8080/smartv/bloomberg_twn.m3u8
+Boomerang,https://127.0.0.1:8080/smartv/Boomerang.m3u8
+CBBC,https://127.0.0.1:8080/smartv/cbbc_antik.m3u8
+CBSHD,https://127.0.0.1:8080/smartv/cbshd_glo.m3u8
+CBSNHD,https://127.0.0.1:8080/smartv/cbsn_glo.m3u8
+Muslim TV,https://127.0.0.1:8080/smartv/MuslimTV.m3u8
+itv1,https://127.0.0.1:8080/smartv/itv1_antik.m3u8
+tvNMovie,https://127.0.0.1:8080/smartv/Tvnmovie.m3u8
+TVN,https://127.0.0.1:8080/smartv/TVN.m3u8
+RTHK32,https://127.0.0.1:8080/smartv/rhk32_twn.m3u8
+RTHK31,https://127.0.0.1:8080/smartv/rhk31_twn.m3u8
+J2,https://127.0.0.1:8080/smartv/j2_twn.m3u8
+无线财经资讯,https://127.0.0.1:8080/smartv/tvbcaijing_twn.m3u8
+民视第一,https://127.0.0.1:8080/smartv/lunghuajingdian_twn.m3u8
+龙华偶像,https://127.0.0.1:8080/smartv/lunghuaidol_twn.m3u8
+龙华卡通,https://127.0.0.1:8080/smartv/jingtiancartoon_twn.m3u8
+非凡新闻,https://127.0.0.1:8080/smartv/feifannews_twn.m3u8
+美食星球,https://127.0.0.1:8080/smartv/foodplanet_twn.m3u8
+Arirang,https://127.0.0.1:8080/smartv/arirang_twn.m3u8
+爱尔达体育2,https://127.0.0.1:8080/smartv/eltasport2_twn.m3u8
+爱尔达体育1,https://127.0.0.1:8080/smartv/eltasport_twn.m3u8
+民视新闻,https://127.0.0.1:8080/smartv/ftvnew_taiwan.m3u8
+民视台湾,https://127.0.0.1:8080/smartv/ftvtaiwan_twn.m3u8
+民视,https://127.0.0.1:8080/smartv/ftvhd_taiwan.m3u8
+年代新闻,https://127.0.0.1:8080/smartv/niandainews_twn.m3u8
+好消息 2,https://127.0.0.1:8080/smartv/good2_twn.m3u8
+大爱1台,https://127.0.0.1:8080/smartv/daai_twn.m3u8
+博斯高球2,https://127.0.0.1:8080/smartv/bosigolf2_twn.m3u8
+博斯运动 2,https://127.0.0.1:8080/smartv/bosisport2_twn.m3u8
+博斯运动 1,https://127.0.0.1:8080/smartv/bosisport1_twn.m3u8
+博斯网球,https://127.0.0.1:8080/smartv/bositennis_twn.m3u8
+华视,https://127.0.0.1:8080/smartv/ctshd_twn.m3u8
+公视,https://127.0.0.1:8080/smartv/ctv_taiwan.m3u8
+八大综合,https://127.0.0.1:8080/smartv/badazhonghe.m3u8
+中视新闻,https://127.0.0.1:8080/smartv/zhongshinews_twn.m3u8
+中视,https://127.0.0.1:8080/smartv/zhongshihd_twn.m3u8
+中天新闻,https://127.0.0.1:8080/smartv/ctinews.m3u8
+中天娱乐,https://127.0.0.1:8080/smartv/ctient.m3u8
+中天亚洲,https://127.0.0.1:8080/smartv/ctiasia_twn.m3u8
+东森超视,https://127.0.0.1:8080/smartv/ettvsuper.m3u8
+东森财经新闻,https://127.0.0.1:8080/smartv/ettvcaijing_twn.m3u8
+东森戏剧,https://127.0.0.1:8080/smartv/ettvdrama.m3u8
+三立综合,https://127.0.0.1:8080/smartv/sanlizhonghe.m3u8
+三立戏剧,https://127.0.0.1:8080/smartv/sanlixiju_twn.m3u8
+东森电影,https://127.0.0.1:8080/smartv/ettvmovie.m3u8
+东森综合,https://127.0.0.1:8080/smartv/ettvzhonghe.m3u8
+中天综合,https://127.0.0.1:8080/smartv/ctizhonghe.m3u8
+八大综合,https://127.0.0.1:8080/smartv/badazhonghe.m3u8
+八大戏剧,https://127.0.0.1:8080/smartv/badadrama.m3u8
+八大第一,https://127.0.0.1:8080/smartv/badafirst.m3u8
+八大第一,https://127.0.0.1:8080/smartv/badafirst.m3u8
+小太阳,https://127.0.0.1:8080/smartv/Xiaotaiyang.m3u8
+靖天卡通,https://127.0.0.1:8080/smartv/jingtiancartoon_twn.m3u8
+靖天国际,https://127.0.0.1:8080/smartv/jingtianintl_twn.m3u8
+TVBS News,https://127.0.0.1:8080/smartv/tvbs_n.m3u8
+TVBS,https://127.0.0.1:8080/smartv/tvbs.m3u8
+EYETV戏剧,https://127.0.0.1:8080/smartv/eyetvxiju_twn.m3u8
+EYETV旅游,https://127.0.0.1:8080/smartv/eyetvtravel_twn.m3u8
+TVBS欢乐,https://127.0.0.1:8080/smartv/tvbshuanle_twn.m3u8
+Viu6,https://127.0.0.1:8080/smartv/viusix_twn.m3u8
+国家地理,https://127.0.0.1:8080/smartv/natgeohd_twn.m3u8
+野生动物,https://127.0.0.1:8080/smartv/natgeowild_twn.m3u8
+Momo TV,https://127.0.0.1:8080/smartv/momo1_twn.m3u8
+亚洲旅游,https://127.0.0.1:8080/smartv/asiatravel_twn.m3u8
+AXNTaiwan,https://127.0.0.1:8080/smartv/axn_twn.m3u8
+动物星球1,https://127.0.0.1:8080/smartv/animalplanet_twn.m3u8
+CINEMAX,https://127.0.0.1:8080/smartv/cinemax_twn.m3u8
+CNBC,https://127.0.0.1:8080/smartv/cnbc_twn.m3u8
+DiscoveryAsia,https://127.0.0.1:8080/smartv/discoverytwn_twn.m3u8
+DiscoveryHD,https://127.0.0.1:8080/smartv/discoveryhd_twn.m3u8
+DiscoveryTurbo,https://127.0.0.1:8080/smartv/discoveryturbo_twn.m3u8
+BBCEarthHD,https://127.0.0.1:8080/smartv/bbcearth_twn.m3u8
+BBCWorldNews,https://127.0.0.1:8080/smartv/bbcnews_twn.m3u8
+BloombergNews,https://127.0.0.1:8080/smartv/bloomberg_twn.m3u8
+CBSHD,https://127.0.0.1:8080/smartv/cbshd_glo.m3u8
+CBSNHD,https://127.0.0.1:8080/smartv/cbsn_glo.m3u8
+ABCNews,https://127.0.0.1:8080/smartv/abcnews_glo.m3u8
+BabyTV,https://127.0.0.1:8080/smartv/babytv_twn.m3u8
+CBSNews,https://127.0.0.1:8080/smartv/cbsn_glo.m3u8
+CNN,https://127.0.0.1:8080/smartv/cnn_twn.m3u8
+DiscoveryAsia,https://127.0.0.1:8080/smartv/discoverytwn_twn.m3u8
+ELEVEN体育1,https://127.0.0.1:8080/smartv/golfchannel_twn.m3u8
+EYETV戏剧,https://127.0.0.1:8080/smartv/eyetvxiju_twn.m3u8
+FoxNews,https://127.0.0.1:8080/smartv/foxnews_twn.m3u8
+GOODTV真理,https://127.0.0.1:8080/smartv/good2_twn.m3u8
+HBO家庭,https://127.0.0.1:8080/smartv/fyi_twn.m3u8
+RTHK32,https://127.0.0.1:8080/smartv/rhk32_twn.m3u8
+TVBS新闻,https://127.0.0.1:8080/smartv/tvbs_n.m3u8
+TVBS欢乐,https://127.0.0.1:8080/smartv/tvbshuanle_twn.m3u8
+WWE,https://127.0.0.1:8080/smartv/wwe_twn.m3u8
+三立台湾,https://127.0.0.1:8080/smartv/sanlitaiwan.m3u8
+三立戏剧,https://127.0.0.1:8080/smartv/sanlixiju_twn.m3u8
+三立综合,https://127.0.0.1:8080/smartv/sanlizhonghe.m3u8
+中天亚洲,https://127.0.0.1:8080/smartv/ctiasia_twn.m3u8
+中天娱乐,https://127.0.0.1:8080/smartv/ctient.m3u8
+中视新闻,https://127.0.0.1:8080/smartv/zhongshinews_twn.m3u8
+中视新闻,https://127.0.0.1:8080/smartv/zhongshinews_twn.m3u8
+中视经典,https://127.0.0.1:8080/smartv/zhongshi_twn.m3u8
+亚洲旅游,https://127.0.0.1:8080/smartv/asiatravel_twn.m3u8
+八大戏剧,https://127.0.0.1:8080/smartv/badadrama.m3u8
+八大第一,https://127.0.0.1:8080/smartv/badafirst.m3u8
+八大综合,https://127.0.0.1:8080/smartv/badazhonghe.m3u8
+公视,https://127.0.0.1:8080/smartv/ctv_taiwan.m3u8
+动物星球,https://127.0.0.1:8080/smartv/animalplanet_twn.m3u8
+博斯网球,https://127.0.0.1:8080/smartv/bositennis_twn.m3u8
+博斯运动2,https://127.0.0.1:8080/smartv/bosisport2_twn.m3u8
+博斯高球1,https://127.0.0.1:8080/smartv/bosigolf1_twn.m3u8
+博斯高球1,https://127.0.0.1:8080/smartv/bosigolf1_twn.m3u8
+好莱坞电影,https://127.0.0.1:8080/smartv/hollywoodmovies_twn.m3u8
+爱尔达体育1,https://127.0.0.1:8080/smartv/eltasport2_twn.m3u8
+爱尔达体育2,https://127.0.0.1:8080/smartv/eltasport2_twn.m3u8
+探索亚洲,https://127.0.0.1:8080/smartv/discoverytwn_twn.m3u8
+探索动力,https://127.0.0.1:8080/smartv/discoveryturbo_twn.m3u8
+星卫电影,https://127.0.0.1:8080/smartv/xingwei_movie.m3u8
+时尚,https://127.0.0.1:8080/smartv/fashiontv_twn.m3u8
+东森财经,https://127.0.0.1:8080/smartv/ettvcaijing_twn.m3u8
+东森超视,https://127.0.0.1:8080/smartv/ettvsuper.m3u8
+民视新闻,https://127.0.0.1:8080/smartv/ftvnew_taiwan.m3u8
+美亚电影,https://127.0.0.1:8080/smartv/meiyamovie_twn.m3u8
+靖天卡通,https://127.0.0.1:8080/smartv/jingtiancartoon_twn.m3u8
+非凡新闻,https://127.0.0.1:8080/smartv/feifannews_twn.m3u8
+龙华戏剧,https://127.0.0.1:8080/smartv/lunghuaxiju_twn.m3u8
+Awani,https://127.0.0.1:8080/smartv/Awani.m3u8
+BBC,https://127.0.0.1:8080/smartv/bbc1_antik.m3u8
+BBC1,https://127.0.0.1:8080/smartv/bbc1_antik.m3u8
+BBC2,https://127.0.0.1:8080/smartv/bbc2_antik.m3u8
+BBC WORLD NEWS,https://127.0.0.1:8080/smartv/bbcnews_twn.m3u8
+BTSports4,https://127.0.0.1:8080/smartv/btespn.m3u8
+CNA亚洲新闻,https://127.0.0.1:8080/smartv/cna.m3u8
+Euronews,https://127.0.0.1:8080/smartv/euronews_antik.m3u8
+TLC旅游生活,https://127.0.0.1:8080/smartv/tlc_twn.m3u8
+新加坡8,https://127.0.0.1:8080/smartv/TV8.m3u8
+翡翠,https://127.0.0.1:8080/smartv/jade_twn.m3u8
+翡翠,https://127.0.0.1:8080/smartv/Wlt.m3u8

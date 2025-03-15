@@ -1,0 +1,50 @@
+name: Auto Update Hotel IPTV IP
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 2 * * *"
+
+jobs:
+  iptv:
+    runs-on: ubuntu-latest
+
+    permissions: write-all
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+            pip install -r requirements.txt && playwright install && playwright install-deps
+
+      - name: Get Currrent Date
+        run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S %Z')" >> $GITHUB_ENV
+
+      - name: Run Update Hotel IPTV
+        run: |
+             python main.py --type hotel --ip
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Auto Update IPTV
+          branch: main
+          push_options: '--force'
+
+      - name: Delete workflow runs
+        uses: MajorScruffy/delete-old-workflow-runs@v0.3.0
+        with:
+          repository: ${{ github.repository }}
+          workflow: ".github/workflows/iptv_hotel_ip.yml"
+          older-than-seconds: 3600
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

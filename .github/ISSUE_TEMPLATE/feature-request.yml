@@ -1,0 +1,20 @@
+name: 🚀 Feature request
+description: 	Create a new ticket for a new feature request
+title: "🚀 [FEATURE] - <title>"
+labels: ['question']
+
+body:
+  - type: textarea
+    attributes:
+      label: 🚀 Feature Description
+      description: >
+        A clear and concise description of the feature proposal. Please outline the motivation for the proposal.
+        Is your feature request related to a specific problem? For example, *"I'm working on X and would like Y to be possible"*.
+        If this is related to another GitHub issue, please link it here.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: >
+        Thanks for contributing 🎉!

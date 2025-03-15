@@ -1,0 +1,21 @@
+4K-8K,#genre#
+Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Classic Arts Showcase 4K,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+百事通4K电影,http://www.17888.fun:10000/udp/239.45.3.107:5140$上海电信组播
+百事通4K纪实,http://www.17888.fun:10000/rtp/239.45.1.10:5140$上海电信组播
+百事通4K儿童,http://www.17888.fun:10000/rtp/239.45.1.1:5140$上海电信组播
+北京4K超清,http://cn.zzmd.fun:8888/rtp/239.3.1.249:8001$北京联通组播
+南国都市4K,http://alvin.ergotron.net:8000/rtp/239.253.43.99:5146$广东电信组播
+广东综艺4K,http://alvin.ergotron.net:8000/rtp/239.77.1.237:5146$广东电信组播
+河南卫视4K,http://125.43.42.143:9999/udp/225.1.4.254:1300$河南联通
+爱上4K,http://wouu.net:9977/udp/239.93.0.97:5140$四川电信组播
+4K电影,http://wouu.net:9977/udp/239.93.1.156:5140$四川电信组播
+中录动漫4K,http://wouu.net:9977/udp/239.93.1.188:5140$四川电信组播
+亲子趣学4K,http://wouu.net:9977/udp/239.93.1.191:5140$四川电信组播
+津津悦读4K,http://wouu.net:9977/udp/239.93.1.197:5140$四川电信组播
+军情观察4K,http://wouu.net:9977/udp/239.93.1.198:5140$四川电信组播
+绚影4K,http://wouu.net:9977/udp/239.93.42.33:5140$四川电信组播
+乐享4K,http://wouu.net:9977/udp/239.93.0.43:5140$四川电信组播

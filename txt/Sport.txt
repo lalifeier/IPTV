@@ -1,0 +1,151 @@
+体育,#genre#
+CCTV-5 体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
+广东体育,http://218.15.214.115:10000/udp/239.77.1.97:5146$广东电信组播
+北京体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000$北京联通组播
+咪咕体育,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕足球,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕善跑,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+
+睛彩竞技,http://111.193.234.224:8888/udp/239.3.1.125:8001$北京联通组播
+睛彩篮球,http://111.193.234.224:8888/udp/239.3.1.126:8001$北京联通组播
+睛彩羽毛球,http://111.193.234.224:8888/udp/239.3.1.127:8001$北京联通组播
+睛彩广场舞,http://111.193.234.224:8888/udp/239.3.1.128:8001$北京联通组播
+
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+超级体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8
+精品体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8
+劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
+Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
+咪咕 4K 欧洲杯 1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
+咪咕 4K 欧洲杯 2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+咪咕 4K 欧洲杯 3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+咪咕 HD 欧洲杯 1,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕 HD 欧洲杯 2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕 HD 欧洲杯 3,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+
+皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+TNT Sport 1,https://tv.iill.top/beesport/TNT_Sports_1
+TNT Sport 2,https://tv.iill.top/beesport/TNT_Sports_2
+TNT Sport 3,https://tv.iill.top/beesport/TNT_Sports_3
+TNT Sport 4,https://tv.iill.top/beesport/TNT_Sports_4
+Sky Sports Football,https://tv.iill.top/beesport/Sky_Sports_Football_Live_TV
+Sky Sports Main Event,https://tv.iill.top/beesport/Sky_Sports_Main_Event
+Sky Sports Premier League,https://tv.iill.top/beesport/Sky_Sports_Premier_League
+Sky Sports Action,https://tv.iill.top/beesport/Sky_Sports_Action_Live_TV
+Sky Sports Mix,https://tv.iill.top/beesport/Sky_Sports_Mix_Live_TV
+Sky Sports Arena,https://tv.iill.top/beesport/Sky_Sports_Arena_Live_TV
+Sky Sports News,https://tv.iill.top/beesport/Sky_Sports_News_Live_TV
+Sky Sports Cricket,https://tv.iill.top/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,https://tv.iill.top/beesport/Sky_Sports_Tennis
+Sky Sports F1,https://tv.iill.top/beesport/Sky_Sports_F1_Live_TV
+Sky Sports Golf,https://tv.iill.top/beesport/Sky_Sports_Golf_Live_TV
+Sky Sports Racing,https://tv.iill.top/beesport/Sky_Sports_Racing_Live_TV
+Tennis Channel,https://tv.iill.top/beesport/Tennis_Channel_Live_TV
+LaLiga TV,https://tv.iill.top/beesport/La_Liga_TV_Live_TV
+DAZN,https://tv.iill.top/beesport/DAZN_Live_TV
+Bein Sports USA,https://tv.iill.top/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,https://tv.iill.top/beesport/Bein_Sports_English_2_Live_TV
+SuperSport Premier League,https://tv.iill.top/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,https://tv.iill.top/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,https://tv.iill.top/beesport/SuperSport_Action_Live_TV
+SuperSport Blitz,https://tv.iill.top/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,https://tv.iill.top/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,https://tv.iill.top/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,https://tv.iill.top/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,https://tv.iill.top/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,https://tv.iill.top/beesport/SuperSport_Tennis_Live_TV
+Variety 1,https://tv.iill.top/beesport/Variety_1_Live_TV
+Variety 2,https://tv.iill.top/beesport/Variety_2_Live_TV
+Variety 3,https://tv.iill.top/beesport/Variety_3_Live_TV
+Variety 4,https://tv.iill.top/beesport/Variety_4_Live_TV
+Eurosport 1,https://tv.iill.top/beesport/Eurosport_1_Live_TV
+Eurosport 2,https://tv.iill.top/beesport/Eurosport_2_Live_TV
+Premier Sports 1,https://tv.iill.top/beesport/Premier_Sports_1
+Premier Sports 2,https://tv.iill.top/beesport/Premier_Sports_2
+Golf Channel,https://tv.iill.top/beesport/Golf_Channel_Live_TV
+MLB Network,https://tv.iill.top/beesport/MLB_Network_Live_TV
+NBA TV,https://tv.iill.top/beesport/NBA_TV_Live_TV
+NFL Network,https://tv.iill.top/beesport/NFL_Network_Live_TV
+NFL Redzone,https://tv.iill.top/beesport/NFL_REDZONE_Live_TV
+NHL Network,https://tv.iill.top/beesport/NHL_Network_Live_TV
+WWE,https://tv.iill.top/beesport/WWE_Live_TV
+Willow Cricket,https://tv.iill.top/beesport/Willow_Cricket_Live_TV
+Willow Extra,https://tv.iill.top/beesport/Willow_Extra_Live_TV
+World Fishing Network,https://tv.iill.top/beesport/World_Fishing_Network_Live_TV
+Fight Network,https://tv.iill.top/beesport/Fight_Network_Live_TV
+ESPN,https://tv.iill.top/beesport/ESPN_Live_TV
+ESPN 2,https://tv.iill.top/beesport/ESPN_2_Live_TV
+ESPN News,https://tv.iill.top/beesport/ESPN_News_Live_TV
+ESPN U,https://tv.iill.top/beesport/ESPN_U_Live_TV
+MUTV,https://tv.iill.top/beesport/MUTV_Live_TV
+LFC TV,https://tv.iill.top/beesport/LFC_TV_Live_TV
+ACC Network,https://tv.iill.top/beesport/ACC_Network_Live_TV
+CBS Sports Network,https://tv.iill.top/beesport/CBS_Sports_Network_Live_TV
+Fox Sports 1,https://tv.iill.top/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,https://tv.iill.top/beesport/Fox_Sports_2_Live_TV
+
+游戏赛事,#genre#
+「B站」CS 2,http://live.iill.top/bilibili.php?id=21622811
+「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
+「虎牙」英雄联盟 𝟙,http://live.iill.top/huya.php?id=660000
+「虎牙」英雄联盟 𝟚StorytellerFan,http://live.iill.top/huya.php?id=660001
+「斗鱼」英雄联盟 𝟙,http://live.iill.top/douyu.php?id=288016
+「斗鱼」英雄联盟 𝟚,http://live.iill.top/douyu.php?id=424559
+「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
+「B站」王者荣耀 𝟙,http://live.iill.top/bilibili.php?id=55
+「B站」王者荣耀 𝟚,http://live.iill.top/bilibili.php?id=21654762
+「虎牙」王者荣耀 𝟙,http://live.iill.top/huya.php?id=660002
+「虎牙」王者荣耀 𝟚,http://live.iill.top/huya.php?id=660164
+「斗鱼」王者荣耀 𝟙,http://live.iill.top/douyu.php?id=1863767
+「斗鱼」王者荣耀 𝟚,http://live.iill.top/douyu.php?id=1984839
+「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
+「虎牙」绝地求生 𝟙,http://live.iill.top/huya.php?id=660004
+「虎牙」绝地求生 𝟚,http://live.iill.top/huya.php?id=660005
+「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
+「斗鱼」绝地地图,http://live.iill.top/douyu.php?id=5818871
+「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
+「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
+「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
+「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
+「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
+「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
+「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
+「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
+「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
+「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
+「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
+「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
+「斗鱼」穿越火线 𝟙,http://live.iill.top/douyu.php?id=605964
+「斗鱼」穿越火线 𝟚,http://live.iill.top/douyu.php?id=5388537
+「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
+「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
+「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
+「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
+「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
+「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
+「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
+「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
+「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
+「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
+「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
+「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
+「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
+「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
+「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
+「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
+「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
+「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
+「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
+「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862

@@ -1,0 +1,39 @@
+name: Auto Update EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 1 * * *"
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+
+    permissions: write-all
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run Update EPG Files
+        run: |
+            rm -f e.xml
+            wget https://epg.112114.xyz/pp.xml -O e.xml
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Auto Update EPG
+          branch: main
+          push_options: '--force'
+
+      - name: Delete workflow runs
+        uses: MajorScruffy/delete-old-workflow-runs@v0.3.0
+        with:
+          repository: ${{ github.repository }}
+          workflow: ".github/workflows/epg.yml"
+          older-than-seconds: 3600
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

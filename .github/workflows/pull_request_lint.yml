@@ -1,0 +1,43 @@
+name: Pull Request Linting
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  lint_pull_requests:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+
+    - name: Lint pull request
+      run: |
+        echo "Performing lint checks on the pull request"
+        # Add your linting commands or scripts here
+        # For example, running a linting tool or script
+        # ./run-lint.sh
+
+    - name: Check for stale pull requests
+      uses: actions/stale@v9
+      with:
+        days-before-stale: 30
+        days-before-close: 7
+        stale-message: "This pull request has been marked as stale due to inactivity."
+        closed-message: "This pull request has been closed due to inactivity."
+
+    - name: Comment on pull request
+      if: ${{ github.event.action == 'opened' || github.event.action == 'reopened' }}
+      uses: actions-ecosystem/action-create-comment@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        body: |
+          Hi @${{ github.event.pull_request.user.login }}, thank you for your pull request. We will review it soon.

@@ -1,0 +1,38 @@
+name: Monthly Cleanup
+
+on:
+  schedule:
+    - cron: '30 0 1 * *'
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          java-version: '11'
+          distribution: 'temurin'
+
+      - name: Download BFG
+        run: curl -Lo bfg.jar https://repo1.maven.org/maven2/com/madgag/bfg/1.14.0/bfg-1.14.0.jar
+
+      - name: Delete all files with BFG
+        run: java -jar bfg.jar --delete-all-files .
+
+      #  或者，如果要删除特定文件:
+      # - name: Delete specific files with BFG
+      #   run: java -jar bfg.jar --delete-files '要删除的文件名' .
+
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Monthly cleanup with BFG"
+          branch: main
+          push_options: --force

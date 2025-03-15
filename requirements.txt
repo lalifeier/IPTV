@@ -1,0 +1,16 @@
+requests
+playwright
+pypinyin
+aiohttp
+fofa-hack
+cloudscraper
+fastapi
+uvicorn
+lxml
+beautifulsoup4
+pycryptodome
+tldextract
+node_vm2
+dukpy
+opencv-python
+aiohttp

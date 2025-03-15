@@ -1,0 +1,85 @@
+[tool.poetry]
+name = "iptv"
+version = "0.1.0"
+description = ""
+authors = ["lalifeier <lalifeier@gmail.com>"]
+readme = "README.md"
+packages = [{include = "iptv"}]
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+poethepoet = "^0.17.1"
+black = "^22.12.0"
+isort = "^5.11.4"
+flake8 = "^6.0.0"
+pre-commit = "^2.21.0"
+mypy = "^0.991"
+tox = "^4.2.4"
+
+[tool.poetry.group.test]
+optional = true
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.1.2"
+pytest-cov = "^3.0.0"
+pytest-asyncio = "0.20.3"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+fastapi = "^0.89.1"
+uvicorn = {extras = ["standard"], version = "^0.20.0"}
+aiohttp = {extras = ["speedups"], version = "^3.8.3"}
+gunicorn = "^20.1.0"
+orjson = "^3.8.4"
+lxml = "^4.9.2"
+beautifulsoup4 = "^4.11.1"
+xmltodict = "^0.13.0"
+pycryptodome = "^3.16.0"
+# playwright = "^1.29.1"
+# node-vm2 = "^0.4.4"
+# pyexecjs2 = "^1.6.1"
+# pywasm = "^1.0.7"
+tldextract = "^5.1.2"
+
+requests = "^2.32.3"
+dukpy = "^0.4.0"
+pypinyin = "^0.51.0"
+opencv-python = "^4.10.0.84"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.source]]
+name = "baidu"
+url = "https://mirror.baidu.com/pypi/simple"
+priority = "primary"
+
+[[tool.poetry.source]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+priority = 'supplemental'
+
+[tool.isort]
+profile = 'black'
+
+[tool.black]
+line-length = 120
+target-version = ['py311']
+
+[tool.poe.tasks]
+prepare = "pre-commit install"
+test = "pytest tests"
+test_coverage = "pytest --cov=tests --cov-report=html"
+format = "black ."
+lint = "flake8 ."
+clean = """
+# Multiline commands including comments work too. Unescaped whitespace is ignored.
+rm -rf .coverage
+       .mypy_cache
+       .pytest_cache
+       dist
+       ./**/__pycache__
+"""

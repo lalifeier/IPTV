@@ -1,0 +1,17 @@
+{
+    // Python & Pylance Setup
+    "python.languageServer": "Pylance",
+    // "python.envFile": "${workspaceFolder}/.env",
+    // "python.venvFolders": ["~/.cache/pypoetry/virtualenvs"],
+    // "python.defaultInterpreterPath": "/usr/bin/python",
+  
+    // We use "black" as a formatter:
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length", "120"],
+  
+    // Use flake8 for linting
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=120"]
+  }
