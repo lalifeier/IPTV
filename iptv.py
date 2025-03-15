@@ -151,7 +151,7 @@ def main():
         "Shuzi": file_to_m3u("Shuzi.txt"),
         "NewTV": file_to_m3u("NewTV.txt"),
         "iHOT": file_to_m3u("iHOT.txt"),
-        "SITV": file_to_m3u("SITV.txt"),
+        # "SITV": file_to_m3u("SITV.txt"),
         "Movie": file_to_m3u("Movie.txt"),
         "Sport": file_to_m3u("Sport.txt"),
         "MiGu": file_to_m3u("MiGu.txt"),
