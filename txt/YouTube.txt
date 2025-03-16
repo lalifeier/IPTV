@@ -77,8 +77,7 @@ YouTube「台灣政論」，#genre#
 YouTube「綜藝」,#genre#
 綜藝玩很大,https://127.0.0.1:8080/youtube/ryClunmbUaI.m3u8
 飢餓遊戲,https://127.0.0.1:8080/youtube/A98LJq71BZg.m3u8
-天才衝衝衝,https://127.0.0.1:8080/youtube/oi-ZcqrFVxU.m3u8
-
+天才衝衝衝,https://127.0.0.1:8080/youtube/UsZi0jxZHZ8.m3u8
 大熱門猜歌王4周年,https://127.0.0.1:8080/youtube/cpsP1wd-HgM.m3u8
 11點熱吵店,https://127.0.0.1:8080/youtube/nLi9sJV_SSU.m3u8
 
