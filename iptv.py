@@ -310,7 +310,7 @@ def generate_youtube_txt():
         text = "\n".join(output_lines)
 
         text = """
-YouTube「线路2」,#genre#
+YouTube「代理」,#genre#
 """ + text
 
         logging.info("Writing to Youtube.txt...")
