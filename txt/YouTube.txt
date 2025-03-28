@@ -66,8 +66,8 @@ YouTube「台湾國會」,#genre#
 社會福利及衛生環境委員會,https://127.0.0.1:8080/youtube/DdUWlWZVOi8.m3u8
 經費稽核委員會,https://127.0.0.1:8080/youtube/nkejc54RyDU.m3u8
 
-YouTube「台灣政論」，#genre#
-94要客訴,https://127.0.0.1:8080/youtube/eYQVaXGMrBU.m3u8
+YouTube「台灣政論」,#genre#
+94要客訴,https://127.0.0.1:8080/youtube/5jjcUKXP2Ac.m3u8
 新聞大白話,https://127.0.0.1:8080/youtube/Y491n5FecPE.m3u8
 前進新台灣,https://127.0.0.1:8080/youtube/GaQCo4f3Ujs?list=PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl.m3u8
 國民大會,https://127.0.0.1:8080/youtube/ccdrE3P4NIA.m3u8
@@ -77,7 +77,7 @@ YouTube「台灣政論」，#genre#
 YouTube「綜藝」,#genre#
 綜藝玩很大,https://127.0.0.1:8080/youtube/ryClunmbUaI.m3u8
 飢餓遊戲,https://127.0.0.1:8080/youtube/A98LJq71BZg.m3u8
-天才衝衝衝,https://127.0.0.1:8080/youtube/UsZi0jxZHZ8.m3u8
+天才衝衝衝,https://127.0.0.1:8080/youtube/QUcOMgw4srY.m3u8
 大熱門猜歌王4周年,https://127.0.0.1:8080/youtube/cpsP1wd-HgM.m3u8
 11點熱吵店,https://127.0.0.1:8080/youtube/nLi9sJV_SSU.m3u8
 
@@ -85,7 +85,7 @@ YouTube「綜藝」,#genre#
 
 萬秀豬王,https://127.0.0.1:8080/youtube/ADDSmXoPDY8.m3u8
 我愛冰冰 Show,https://127.0.0.1:8080/youtube/zf1hVmrf5r8.m3u8
-豬哥會社,https://127.0.0.1:8080/youtube/htGDPsz2BYI.m3u8
+豬哥會社,https://127.0.0.1:8080/youtube/0aBJU1mFpsk.m3u8
 
 中廣流行網,https://127.0.0.1:8080/youtube/TsiMLrOSY5U.m3u8
 
@@ -112,15 +112,15 @@ YouTube「電視劇」,#genre#
 我和我們在一起,https://127.0.0.1:8080/youtube/FdoVTSTSMho.m3u8
 
 YouTube「美食」,#genre#
-非凡大探索 台北美食,https://127.0.0.1:8080/youtube/rQUP8Ck27gc.m3u8
-非凡大探索 台中美食,https://127.0.0.1:8080/youtube/T2udU5Crz4I.m3u8
-非凡大探索 高雄美食,https://127.0.0.1:8080/youtube/bOcfle08bWA.m3u8
+非凡大探索 台北美食,https://127.0.0.1:8080/youtube/PTJSLPpUwgw.m3u8
+非凡大探索 台中美食,https://127.0.0.1:8080/youtube/Im3P69GqV90.m3u8
+非凡大探索 高雄美食,https://127.0.0.1:8080/youtube/ZN2naHsV94M.m3u8
 亞洲美食頻道,https://127.0.0.1:8080/youtube/nUzOmgx3RvM.m3u8
 
 YouTube「旅遊/文化」,#genre#
-MIT 台灣誌,https://127.0.0.1:8080/youtube/9d4ggywa01w.m3u8
-大陸尋奇,https://127.0.0.1:8080/youtube/fl1iFkAWcVU.m3u8
-台灣啟示錄,https://127.0.0.1:8080/youtube/0qb7ND0_E6k.m3u8
+MIT 台灣誌,https://127.0.0.1:8080/youtube/zt9tSbiw4sg.m3u8
+大陸尋奇,https://127.0.0.1:8080/youtube/UtOw97Ba8hE.m3u8
+台灣啟示錄,https://127.0.0.1:8080/youtube/4Eu20-JSWqQ.m3u8
 
 YouTube「兒童」,#genre#
 MOMO 親子台,https://127.0.0.1:8080/youtube/R3PZkCUJSbQ.m3u8
@@ -152,13 +152,13 @@ CCTV 中國央視,https://127.0.0.1:8080/youtube/bEZYrBMYNNg.m3u8
 鳳凰資訊,https://127.0.0.1:8080/youtube/a3WZVssKlAI.m3u8
 
 YouTube「宗教」,#genre#
-大愛一臺,https://127.0.0.1:8080/youtube/oV_i3Hsl_zg.m3u8
+大愛一臺,https://127.0.0.1:8080/youtube/MIqUplvSRWA.m3u8
 大愛二臺,https://127.0.0.1:8080/youtube/DTNkEm6jaqQ.m3u8
 大愛海外台,https://127.0.0.1:8080/youtube/MIqUplvSRWA.m3u8
 華藏衛視,https://127.0.0.1:8080/youtube/ypmrwYeLAaQ.m3u8
 淨空老法師,https://127.0.0.1:8080/youtube/LuomVsFAFpg.m3u8
-誠心電視台,https://127.0.0.1:8080/youtube/mqf0pi1PTyg.m3u8
-信大電視台,https://127.0.0.1:8080/youtube/ciwFpYofb28.m3u8
+誠心電視台,https://127.0.0.1:8080/youtube/ieHSbyOeftY.m3u8
+信大電視台,https://127.0.0.1:8080/youtube/_f94RdVE_-A.m3u8
 海豚電視台,https://127.0.0.1:8080/youtube/Na0qOCrZvgw.m3u8
 叫您第一名,https://127.0.0.1:8080/youtube/BUIRHO31E98.m3u8
 桐瑛虎尾電視臺,https://127.0.0.1:8080/youtube/9pdoqvnssSE.m3u8
