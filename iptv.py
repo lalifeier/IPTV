@@ -116,7 +116,7 @@ def main():
 
     live_m3u_content = '#EXTM3U\n'
 
-    for channel in ['douyu', 'huya', 'yy', 'douyin', 'bilibili', 'afreecatv', 'pandatv', 'twitch']:
+    for channel in ['douyu', 'huya', 'yy', 'douyin', 'bilibili', 'afreecatv', 'pandatv', 'flextv', 'twitch']:
         try:
             M3U_URL = f"{PROXY_URL}/{channel}/index.m3u?_={int(time.time() * 1000)}"
             if channel in ['afreecatv', 'pandatv', 'twitch'] and not PROXY_URL:
@@ -128,7 +128,7 @@ def main():
             m3u_content = requests.get(M3U_URL).text
             channel_id = urlparse(M3U_URL).path.split('/')[1]
 
-            if channel not in ['afreecatv', 'pandatv', 'twitch']:
+            if channel not in ['afreecatv', 'pandatv', 'flextv', 'twitch']:
               write_to_file(os.path.join(M3U_DIR, channel_id + '.m3u'), m3u_content)
               logger.info(f"Successfully downloaded and saved M3U file for channel {channel_id}")
 
