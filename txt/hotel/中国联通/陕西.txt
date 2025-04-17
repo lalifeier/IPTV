@@ -1,4 +1,4 @@
-中国联通-山西-酒店,#genre#
+中国联通-陕西-酒店,#genre#
 CCTV1,http://183.185.254.246:9999/tsfile/live/0001_1.m3u8
 CCTV2,http://183.185.254.246:9999/tsfile/live/0002_1.m3u8
 CCTV3,http://183.185.254.246:9999/tsfile/live/0003_1.m3u8
