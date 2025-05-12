@@ -91,3 +91,4 @@ InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
 8world,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
 倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
 TV5 News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u8
+公視新聞網,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV92.m3u8
