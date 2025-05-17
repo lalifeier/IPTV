@@ -93,3 +93,4 @@ InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
 TV5 News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u8
 公視新聞網,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV92.m3u8
 華視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV93.m3u8
+華視公眾安全資訊觀測站,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV94.m3u8
