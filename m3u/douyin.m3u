@@ -1,85 +1,897 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Worker threw exception | cache.lalifeier.eu.org | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-</head>
-<body>
-    <div id="cf-wrapper">
-        <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-        <div id="cf-error-details" class="cf-error-details-wrapper">
-            <div class="cf-wrapper cf-header cf-error-overview">
-                <h1>
-                    <span class="cf-error-type" data-translate="error">Error</span>
-                    <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 96e5cfad79398f6a &bull; 2025-08-13 05:28:54 UTC</small>
-                </h1>
-                <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
-            </div><!-- /.header -->
-    
-            <section></section><!-- spacer -->
-    
-            <div class="cf-section cf-wrapper">
-                <div class="cf-columns two">
-                    <div class="cf-column">
-                        <h2 data-translate="what_happened">What happened?</h2>
-                            <p>You've requested a page on a website (cache.lalifeier.eu.org) that is on the <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_100x" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
-                    </div>
-                    
-                    <div class="cf-column">
-                        <h2 data-translate="what_can_i_do">What can I do?</h2>
-                            <p><strong>If you are the owner of this website:</strong><br />refer to <a href="https://developers.cloudflare.com/workers/observability/errors/" target="_blank">Workers - Errors and Exceptions</a> and check Workers Logs for cache.lalifeier.eu.org.</p>
-                    </div>
-                    
-                </div>
-            </div><!-- /.section -->
-    
-            <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-    <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">96e5cfad79398f6a</strong></span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">162.158.10.141</span>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-  </div><!-- /.error-footer -->
-
-        </div><!-- /#cf-error-details -->
-    </div><!-- /#cf-wrapper -->
-
-     <script>
-    window._cf_translation = {};
-    
-    
-  </script> 
-</body>
-</html>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/dc867b6fb63a26bd18e3c4549982a8db~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=3lotmzbgvHzp0cn03vqH2zlP6Cs%3D",group-title="「抖音」推荐",郑老板
+https://www.goodiptv.club/douyin/233884644922
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7299820590079544118~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=fMcGTRg9ZOH0o7Bk%2F%2Fju7vUYUf0%3D",group-title="「抖音」推荐",昕昕 Noble spirit
+https://www.goodiptv.club/douyin/816352940464
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/720b449e28c50186cb92cf285eb816d3~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=FyLfxMQ6yLFNlJ7GHcuo21FlykE%3D",group-title="「抖音」推荐",棠舟（三角洲行动）
+https://www.goodiptv.club/douyin/129111736344
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/591ae4d38355e99f5d377d8ffd697dca~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=we8Kq9plGxVWQW%2FRst%2ByFFpmG68%3D",group-title="「抖音」推荐",韦雪
+https://www.goodiptv.club/douyin/172793471377
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/12539fcd38d775a238c1e9b985b5c937~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=TqNlLTrF1imo5gaYVE%2FPVz9TGkc%3D",group-title="「抖音」推荐",来吧来吧来吧
+https://www.goodiptv.club/douyin/249053766360
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6944a36c5759cd53e1d3e9593b66897b~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=sLw9aHscKj8Z3DjKMm9iprPoVwc%3D",group-title="「抖音」推荐",就叫Abey
+https://www.goodiptv.club/douyin/452950160519
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/4fb97ec62dd625b1cca37223161e64e2~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=f5ur7reeA0%2FvFNQc5FwmyFL%2BE%2F8%3D",group-title="「抖音」推荐",秦利文
+https://www.goodiptv.club/douyin/338528496221
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7196135955714214714~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=QT4lGNT7phdYioEOMVWutfc5lqU%3D",group-title="「抖音」推荐",静静减脂塑形运动
+https://www.goodiptv.club/douyin/467556348389
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7514953121404914483~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=OnG4hDw%2BV%2FhoorUu9L4HOpICNjQ%3D",group-title="「抖音」推荐",神时衍
+https://www.goodiptv.club/douyin/739566298039
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7534305387705731903~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=f2mD0iEhFjGyfskdxxJyz9AlamU%3D",group-title="「抖音」推荐",羊羊不吃草（第五人格）
+https://www.goodiptv.club/douyin/808199384836
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7343977953014958875~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=SlRvG4m0vmg2uZTH3T0HclzEIkU%3D",group-title="「抖音」推荐",白泽（三角洲行动）
+https://www.goodiptv.club/douyin/71564838536
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7427732315633371930~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=IOs8I8lcXTlD2GetClcOeuctdfA%3D",group-title="「抖音」推荐",娅婷有氧健身
+https://www.goodiptv.club/douyin/99570398278
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/23489b62f63c69f9b30fad551cb6ba3e~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=qh0yGTsarYaQMHeV0jaXKiD3fnA%3D",group-title="「抖音」推荐",三角洲行动赛事
+https://www.goodiptv.club/douyin/122760968096
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/880bfddc381012782bb8b342ab5c8a14~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=%2BJbwCEoyJ7GvrlR66DrvHxRm2YA%3D",group-title="「抖音」推荐",芒果鸡哥
+https://www.goodiptv.club/douyin/937818818069
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/10e1d99c9c92df2ec3bfa6787180cfc5~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=DZVS52pcstosxC08lexlXpwapNQ%3D",group-title="「抖音」推荐",冷宴华
+https://www.goodiptv.club/douyin/320537619096
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/7319dc6d5ccf5129db0c9f8a437e6417~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=L61pICMLR4SjPmMLxhKAzc66g14%3D",group-title="「抖音」推荐",910不是猪（第五人格
+https://www.goodiptv.club/douyin/986757339534
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/297bd03deb3ab843cdd6dfde5c3f6031~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=HYosAw2gkUnpHp9BFwvXFHrVHb8%3D",group-title="「抖音」推荐",海港城女装
+https://www.goodiptv.club/douyin/469518308602
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/a31d0bfee5d7a7e3a1aeca012e6e9d5d~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=31cvHYiq4sKYzbNflJwM16sypGU%3D",group-title="「抖音」推荐",晴天吖、
+https://www.goodiptv.club/douyin/65623975707
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/abc54b47527ed90d48771789c6c1f8d5.jpg~tplv-qz53dukwul-common-resize:360:0.image?lk3s=39e7556e&x-expires=1757509155&x-signature=9rRs%2FaTblQCTduZIAYSZ%2Frbqt%2FM%3D",group-title="「抖音」推荐",李🫱主任(睡眠）
+https://www.goodiptv.club/douyin/36090226059
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7502375044757523250~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=xrdmSM3jPLS8W%2B2t7ZvOCxxhC%2Fg%3D",group-title="「抖音」推荐",重庆丹妹《飞虎队》户外
+https://www.goodiptv.club/douyin/156927887185
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/fcf946c50ea76181a5e75a699e4f682b~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=rTIOHH%2B2LipWxlhR9SaSfiRomag%3D",group-title="「抖音」推荐",三根绳
+https://www.goodiptv.club/douyin/640219244531
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/e6a2058298174de71ffb7e1c68d8cfe9~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=bnPUJh0BlomJvx18XP%2B3RwDqcmc%3D",group-title="「抖音」推荐",小紫敲可爱
+https://www.goodiptv.club/douyin/180841627469
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/abe0782130703e1cf9d603123c57420e~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=LLGeXzfa5lGRHDykCjZjnPPnNSw%3D",group-title="「抖音」推荐",昊瀚•星城合伙人
+https://www.goodiptv.club/douyin/634540180302
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/b22e51a1d590b6e7cbb60d95d9c4df51~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=OgYH7cBX7Gwz%2FPQ4oM4kjVgc4Ho%3D",group-title="「抖音」推荐",小邵闯地球
+https://www.goodiptv.club/douyin/705186240335
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/4d1e278b55983f0b2f0e44bbe8f2cb69~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=WqmWZU1ERjjYIYHNuCPItqu%2F0lQ%3D",group-title="「抖音」推荐",蓝宝石葡萄明日达
+https://www.goodiptv.club/douyin/808822862076
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7422229198087195402~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=sLers%2FlVj6GopFDdQSeUoKfIzTk%3D",group-title="「抖音」推荐",木森（卷土重来）
+https://www.goodiptv.club/douyin/148108118778
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/de65d834b24c70fd59f56adbc6ed1bad~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=hMaaS2Mnbp2en5WyZe%2F%2B3UwTR8o%3D",group-title="「抖音」推荐",打野的奥德彪
+https://www.goodiptv.club/douyin/862908938334
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/b9283efb97dc051939eecf05ea1277ff~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=NYDaIo9AaIc0z5PyUoJGL7hbBgc%3D",group-title="「抖音」推荐",IMP小鬼
+https://www.goodiptv.club/douyin/155865363688
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/mosaic-legacy_3793_3114521287~tplv-resize:360:0.image",group-title="「抖音」推荐",北大数学刘老师
+https://www.goodiptv.club/douyin/171683093654
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/973ea241a31e266a60893c684768156e~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=IAqYgOWVJjXvWoqGqW92r3P5LhU%3D",group-title="「抖音」推荐",水果斯图柚
+https://www.goodiptv.club/douyin/568334505733
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7366257143969975077~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=DfrYWNQR9SlmBMIEo9UQQnz3I70%3D",group-title="「抖音」推荐",南波万（三角洲行动）
+https://www.goodiptv.club/douyin/510200350291
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/f4fb3baab533548d9666507550ee474b~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=rGeuXMh%2F59x4WGBPl0Ik%2FQnwMkA%3D",group-title="「抖音」推荐",唐钰儿⁵²¹²收徒
+https://www.goodiptv.club/douyin/845733210873
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7505397469556230963~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=oQ397xzqmo6e5FBG1CG%2BQiN2KCM%3D",group-title="「抖音」推荐",鸵鸟养殖孵化基地荣荣（诚邀合作主播）
+https://www.goodiptv.club/douyin/39416575454
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_98b4885bbafe1540d11d1502a38fb41a~tplv-resize:360:0.image",group-title="「抖音」推荐",睡懵的小七¹²²⁷🌻
+https://www.goodiptv.club/douyin/497584701059
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_d7278ac56a111acb683be63c5bf4c374~tplv-resize:360:0.image",group-title="「抖音」推荐",海洋《欢乐颂1625》招贤纳士
+https://www.goodiptv.club/douyin/980375097435
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/1520a5ccade383ae0fda2b924ebdc446~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=dxZ4w9s6oLeJk%2F0qh3gZP1G7v7M%3D",group-title="「抖音」推荐",小陆（超自然）
+https://www.goodiptv.club/douyin/860042773291
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c282962c654c41dee2e0acfece98379f~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=xyeLxIvz0lVqtBr91JqrmklwXxI%3D",group-title="「抖音」推荐",梦求真（暗区突围)
+https://www.goodiptv.club/douyin/33045748685
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7412521856956435226~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=KjLe0woIlr7QaPeGBCIDLkDal2I%3D",group-title="「抖音」推荐",苗疆兄妹—传苗方
+https://www.goodiptv.club/douyin/201514310496
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7399985539463613194~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=yxNjpH8ZnvuNnfJ226K7ftbCF9o%3D",group-title="「抖音」推荐",盒子柜☀️
+https://www.goodiptv.club/douyin/750742745862
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7369944714847734565~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=LzkYSEH34RmZlXO%2BF9MPpBKWgok%3D",group-title="「抖音」推荐",小7百货优选
+https://www.goodiptv.club/douyin/182181825522
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_155e58f956aeea5db2ef11b29987b124~tplv-resize:360:0.image",group-title="「抖音」推荐",森林钓鱼户外
+https://www.goodiptv.club/douyin/22612602601
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/8db5a037736c18fe1f48f78af855d953~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=BTvRmsF2HmNGe9MkEDb6OL1s%2BF0%3D",group-title="「抖音」推荐",郑能量（再接再厉）
+https://www.goodiptv.club/douyin/664062915952
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/tos-cn-i-0813_565338d771c44fbaa3a9145193ac9910~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=d3GBLOndexJQISUxpLNmRdp0gqQ%3D",group-title="「抖音」推荐",河南三妹⁵²³³（下午6点开播）
+https://www.goodiptv.club/douyin/849538281989
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7493401479513017114~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=3cy%2Fn2CEFFW5ATByp%2BdN3slY4SY%3D",group-title="「抖音」推荐",卤蛋宝宝《户外娱乐》
+https://www.goodiptv.club/douyin/44527933857
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/5dc7a5fcea7ef09edd2b389b60d60efd~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=%2FoMUca7pVPxoE79g8flnPJ2t0jw%3D",group-title="「抖音」推荐",游遍大好河山
+https://www.goodiptv.club/douyin/752907023123
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c3929fb11f96ad0b4889a44b4fff93b6~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=ClIHTfS1gq%2BSXW1KfwR3MvMTjZY%3D",group-title="「抖音」推荐",杨某人啦（全国总冠军🏆）
+https://www.goodiptv.club/douyin/929603695199
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/e0c0505d38d6867f6d5c7bcfae9b335d~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=ZkTE9Eljnq0dymcnD6h1mbyr5xg%3D",group-title="「抖音」推荐",主升龙头真经
+https://www.goodiptv.club/douyin/666198550100
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/ef5aec68a00fad6c0613f85bdf3a3826~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=i41KMvaaemgL572VNzBlah0Kkng%3D",group-title="「抖音」推荐",麻将小郭福满桌
+https://www.goodiptv.club/douyin/13229459992
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/68ae669fb6ce2b6891a9e31a199c0d2f.jpg~tplv-qz53dukwul-common-resize:360:0.image?lk3s=39e7556e&x-expires=1757509155&x-signature=6GYqbg6%2BU9P1xk2vuwJ8ChaWVLQ%3D",group-title="「抖音」推荐",板胡大伟
+https://www.goodiptv.club/douyin/362014718643
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/a4d9e76e84f6e104ad2425e1add7c7aa~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509156&x-signature=TIi0OvOFP5RkoSQc1N6Zn8B9IS0%3D",group-title="「抖音」推荐",潜水阿文
+https://www.goodiptv.club/douyin/66338777660
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/3e9c7a80412fbc4f7eb4d493ba816f30~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=g8k5slSpovbhoXg5rdSdiv%2F21vA%3D",group-title="「抖音」推荐",斤宝🥩³¹⁷
+https://www.goodiptv.club/douyin/343806013144
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/1acb6ef6ec69b1011ccbb5588a92da6e~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=8nHFXmG3bFebmng327QQK9w1XaU%3D",group-title="「抖音」推荐",森屿楠EAT
+https://www.goodiptv.club/douyin/929653913375
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/cafc9c0687ea7f4268c4c7622da023b3.jpg~tplv-qz53dukwul-common-resize:0:0.image?lk3s=39e7556e&x-expires=1757509158&x-signature=DF5qJyu1MFOhQUJi0mhLiVkeUSo%3D",group-title="「抖音」推荐",二饼胡拉
+https://www.goodiptv.club/douyin/493617752693
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7361019248947874586~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=VBBtmPnbKp2jw%2FK8TPrBgl7rUw8%3D",group-title="「抖音」推荐",小覃地摊烈火牛肉
+https://www.goodiptv.club/douyin/128854739842
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/71be76811eebe543829b8113aada6165~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=%2BGu2lYuunzBzWlL16Tfc6aRPh0s%3D",group-title="「抖音」推荐",Gus
+https://www.goodiptv.club/douyin/6096197105
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/3149aea2baa4ea9c31518cbbbd77b7d8~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=lipJHyqLCbZ7n2myvIjhVgpf6oY%3D",group-title="「抖音」推荐",起床了小澈.
+https://www.goodiptv.club/douyin/414750639705
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/eb8f61b5a0723e195033e87b4acd9f3b~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=dwcGYLQ4tZXN%2FzJ2sxMOpjtEd6s%3D",group-title="「抖音」推荐",杰熙妈妈爱健身
+https://www.goodiptv.club/douyin/242029140401
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/5b13d2f280c5f75a8f0b2bf5724d6fc2.jpg~tplv-qz53dukwul-common-resize:0:0.image?lk3s=39e7556e&x-expires=1757509157&x-signature=qRc0VL%2BGv2rt0or0MT6yXoBG9d4%3D",group-title="「抖音」推荐",上海车王女装
+https://www.goodiptv.club/douyin/875794810646
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/4b9daaa95ab7fd7ad5f53c1c7ae85bd9~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=ZpmSDHx8qlM%2BymH%2FXuMYpYTd3EM%3D",group-title="「抖音」推荐",王者荣耀鸭梨（世一香）
+https://www.goodiptv.club/douyin/565075835478
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/ca6cd4ab8cb8ce166281e551e4e5f82d~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=MxDzxhGnm2kIIq2UysZJdKqiWQo%3D",group-title="「抖音」推荐",张大鲜
+https://www.goodiptv.club/douyin/3378003868
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7443380214241168179~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=zH%2FKvKk6z%2Be67P%2FuSzbgwWbS4G4%3D",group-title="「抖音」推荐",阿阳sama(第五人格)
+https://www.goodiptv.club/douyin/159402772695
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/7629227bf6bcf80ce581517fad4c9f0b~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=%2BmkMAaiqLGQ7NoNAM96r3Q2kHwM%3D",group-title="「抖音」推荐",超哥榴莲
+https://www.goodiptv.club/douyin/500075908815
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7186863228172421948~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=tBy1J1LsYFrWQEZdQ6XfNyqaR74%3D",group-title="「抖音」推荐",Zyy(三角洲行动)
+https://www.goodiptv.club/douyin/822037288014
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/927ddfda9bea4c0aced9428f84a81882~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=5QEuAhSs9NroBjDDyAzYhFAk4e8%3D",group-title="「抖音」推荐",阿达西不懂车
+https://www.goodiptv.club/douyin/928351864859
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/5c45e2b5111087c6ef64cdeffd0cbc58~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=2%2FtHJRimfTljhsMY8NBXg5OnDU8%3D",group-title="「抖音」推荐",明宜商贸
+https://www.goodiptv.club/douyin/113978896567
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7514936187799341834~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=0JXYx7jc1MNx%2BMrer9K%2FMkV5r1I%3D",group-title="「抖音」推荐",丰源百货仓
+https://www.goodiptv.club/douyin/33320435092
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/0140eda74f71e70909d4c9ed48dab215~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=1NVFBmUPIindA78LWz8hJAFAIY4%3D",group-title="「抖音」推荐",小如教美术（有网课）
+https://www.goodiptv.club/douyin/604237472326
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7436727140283583258~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=VTczoVrRS1aQx5AZEboI0QdLMnI%3D",group-title="「抖音」推荐",乔氏台球🎱张堃鹏
+https://www.goodiptv.club/douyin/958158556193
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7350556089664129807~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=xAhDVvY%2Bt7dBkQWGwgjJXwG%2BF0M%3D",group-title="「抖音」推荐",锅哥🔥
+https://www.goodiptv.club/douyin/385592517039
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c0bf9b8b9c2059225b53572d7b8d857b~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=qcoqHE1RlwdQdmjCzsELfP9k6u0%3D",group-title="「抖音」推荐",一点也不奶的奶酪（第五人格）
+https://www.goodiptv.club/douyin/979785571495
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7524716645043407650~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=Ap0Wwdj6ATpUj1AgslipKJUa%2B6c%3D",group-title="「抖音」推荐",书海拾贝人
+https://www.goodiptv.club/douyin/58079811576
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7217004824701324090~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=GmYolMGGtlleVMvDzKFfibSU%2BGo%3D",group-title="「抖音」推荐",沂蒙大厨优选
+https://www.goodiptv.club/douyin/219685875408
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/da6f5808d4dc6243f22905076bf784ed~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=w3lCXNb%2Fe6N3TMbGkv0t0l4ZSvY%3D",group-title="「抖音」推荐",NN47
+https://www.goodiptv.club/douyin/970613953763
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7476800158068509479~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=LaTQJpvbkRc1NQaVDbnTM0ehQhE%3D",group-title="「抖音」推荐",遇见珠宝
+https://www.goodiptv.club/douyin/55406300418
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6ccfe1ddd5d472a3a9b37fa1f7665554~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=0VDnPLSUyC4fkAuLAuIylrYNsK0%3D",group-title="「抖音」推荐",小振炒粉 小雅
+https://www.goodiptv.club/douyin/28647041709
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/4334c017ff69b1d094b6cfd627c3c7ba~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=09jaVJ8UlYpBJKOM29OkmsMbUz8%3D",group-title="「抖音」推荐",自摘园
+https://www.goodiptv.club/douyin/676524042912
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7198727928933452579~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=fB9FELQoQNvKut%2B3V%2FbFKqZtQJc%3D",group-title="「抖音」推荐",酒未央酒馆
+https://www.goodiptv.club/douyin/4599678739
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c031969d61e1e3d7185a3ba242bbd067~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=ietY6i8hW1tIdinCQZXIGiwY1Cg%3D",group-title="「抖音」推荐",撬酫叼焉撰仄
+https://www.goodiptv.club/douyin/329813653548
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a5b29f0a7a780ed2278cd86449e5a3a7~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=t1Bm64BH8DCk4hcYdTYKvNs9gLs%3D",group-title="「抖音」推荐",福建花哥贸易有限公司（子母号）
+https://www.goodiptv.club/douyin/308354974978
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/96986f6d089b47f78b6466766995949c~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=Nifwy%2BB%2B2jZZXr7kncjSo6gnObo%3D",group-title="「抖音」推荐",小张爱探险
+https://www.goodiptv.club/douyin/736003004502
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/f5e0c5f162edebcbb49db8e202a77122~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=tgM4R8cQgP5kSI8FDofoK5IW%2FDs%3D",group-title="「抖音」推荐",蔬菜水果种子
+https://www.goodiptv.club/douyin/970749254420
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/970f5d7cdee4da0bc3fc6ff1700d6621~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=v1o2gx0DgjaZoKIYVv6tKzBuKD4%3D",group-title="「抖音」推荐",泽伊
+https://www.goodiptv.club/douyin/202684535965
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/b7d349cd757fdd86acd9a14374128526~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=sSElXZ1CwvHFD001ybb%2BpClfKvY%3D",group-title="「抖音」推荐",木木振新
+https://www.goodiptv.club/douyin/38607584628
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7404780135507118911~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=7rA6LZPOngpJRwM%2Br1I0NsOTSVg%3D",group-title="「抖音」推荐",高高兴兴教做菜
+https://www.goodiptv.club/douyin/381006947813
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/e9f3e36e9b3901efa0ac752b4a8e7e3c.jpg~tplv-qz53dukwul-common-resize:360:0.image?lk3s=39e7556e&x-expires=1757509158&x-signature=wLsPgtXQOTMyhE5f5D0BSHTv8zY%3D",group-title="「抖音」推荐",财经数据派
+https://www.goodiptv.club/douyin/168973109392
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/77b526a59fa0f0b7e2797cfe3cf6f430~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=wRlQV8J2dGToRUQG7zUlvbRtwOY%3D",group-title="「抖音」推荐",麦子-萌宠乐
+https://www.goodiptv.club/douyin/271128963868
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/91bb3bb2caa08d82c58f767b74299dff~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=luO2iQmoVsj1zRmutDvNe%2Bhbbug%3D",group-title="「抖音」推荐",黑羽（世一懿）
+https://www.goodiptv.club/douyin/411980697220
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6f3515a778c218da7d33ee3912334a0e~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=78ICDHGviDkbxb3KQzu4QzYG4o8%3D",group-title="「抖音」推荐",绮梦高定女装
+https://www.goodiptv.club/douyin/508850163926
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7319797302683273993~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=3cn8DY%2F4B64CbAAGN1OGVePQa1U%3D",group-title="「抖音」推荐",wo你不懂
+https://www.goodiptv.club/douyin/561886296027
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/8a852a7e4ab3ac3ea79a0a57e893af09~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=OZplwomHcnUL4CekAbY1GndZBEU%3D",group-title="「抖音」推荐",诺无言
+https://www.goodiptv.club/douyin/385498930941
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/mosaic-legacy_2b1d0000635a22a71f7e3~tplv-resize:360:0.image",group-title="「抖音」推荐",蛋白.
+https://www.goodiptv.club/douyin/352987268088
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7493353330089986843~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=pOWzBy7oPci%2BV76SjK0jRozRQ4c%3D",group-title="「抖音」推荐",食为先小吃培训学校官方号
+https://www.goodiptv.club/douyin/417950423162
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/53c124cd6adb2b16119c225bcdac32e5~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=LhuM%2FrCwE%2FXptjuTVZCxEx2I7lo%3D",group-title="「抖音」推荐",兔菲（第五人格）
+https://www.goodiptv.club/douyin/914004343742
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/fdf492e1fbcddb200b4520f85953f1b8~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=QzizAiGzhf0QgCVMwhODT%2BCM26Q%3D",group-title="「抖音」推荐",小斌（收徒）
+https://www.goodiptv.club/douyin/972059969218
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7378783859057396517~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=3hhiyAqh2LooGAum73xIm3jrhSs%3D",group-title="「抖音」推荐",南乔说
+https://www.goodiptv.club/douyin/81211559319
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/60ab02db8b62b21d16cb6baa58a78a0d~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=tkdxnErwV92M7DMkgvifzJIK4jg%3D",group-title="「抖音」推荐",高美丽(暗区突围)
+https://www.goodiptv.club/douyin/979936509876
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/612611817db8c9ec7cd6ab495de89c38~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=jWNzuXEK6aGX7RINW82xgluqq54%3D",group-title="「抖音」推荐",唬牌三兄弟
+https://www.goodiptv.club/douyin/915406268089
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/5fb717d55c23883e8ef3169a46d64c07~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=DCdAw%2B%2Beqp15K1eMJqC3Q5V0SJM%3D",group-title="「抖音」推荐",广东阳江锻打菜刀
+https://www.goodiptv.club/douyin/63343713672
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/3c1e6ed5180bd80b0206d1badef6f951~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=IHNdnSvLH4smC5%2FM7pQl4QKwV%2Bs%3D",group-title="「抖音」推荐",绞肉机厂家
+https://www.goodiptv.club/douyin/789794278418
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0966659d92ebcad7a0552d10044a6ef3~tplv-qz53dukwul-common-resize:360:0.image?lk3s=7945d550&x-expires=1757509159&x-signature=%2BUjnrwS0JGp1Okf00fXd7pfcF6E%3D",group-title="「抖音」推荐",网红（长得摔）
+https://www.goodiptv.club/douyin/156125442358
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_3b7ee3efde0b48f7b6ed60864dc93cbd~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919CD5116CCA902DFA02A0A&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",桂林鈊龙自动变速箱专修
+https://www.goodiptv.club/douyin/1506676052
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_e3be8ebad7bf5f8748b0835b9ee702ef~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919F23A110C0AC73EA1390E&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",🌈游魚無池🌈
+https://www.goodiptv.club/douyin/103946101737
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b175bfc8f917d9be883fbf13116298d4~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919B72B26DCB2CA6E6E60A5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=tktQ%2F7bOOIjgLEk8EtuU2vzOE3M%3D",group-title="「抖音」娱乐",⁺✞ʚ小媛重度依赖✟ɞ（原神代肝）
+https://www.goodiptv.club/douyin/424339038038
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/15e573581da0a0c4aaca8006d951e156~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919224FFFCAC8A016D146D9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=n1r3dyyQLG%2FE4QDyEgJEkUbJK9M%3D",group-title="「抖音」娱乐",清风许
+https://www.goodiptv.club/douyin/69827875489
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_5a6837afd6b7c77c1f6abcd1f62b7efd~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059203BE186B9A8AC1CDF83F8&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",玉
+https://www.goodiptv.club/douyin/301981268766
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_okGbAI1AZQxoxLfBIGBeCfnnaUAyE7AugMIMAB~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592086DB598D426715919831&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",陈老太四代同堂
+https://www.goodiptv.club/douyin/968086675113
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_b5ebc7ee2c2d4e41ac0811f4f41a241e~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FE48F26DACF02FE35B1D&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",唐米莉
+https://www.goodiptv.club/douyin/270354255048
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a24786b2664456342813b69a1581e327~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120591927471E4BFB9091B1CA4A&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=L2xX6ebcN2Ha6bdabRPIOiR%2FcOk%3D",group-title="「抖音」娱乐",净观山海•双生唤醒
+https://www.goodiptv.club/douyin/861173504885
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_037f8b95e0e674bd22504a6d6c78915b~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919ACA76FD95EBD05CD3A4A&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",张四四💬
+https://www.goodiptv.club/douyin/157832712054
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/00d1951d76a1acd54535857949e65d19~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120591990E0D40CCFAD84A7A9F1&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=sACqHrH1qOxXo0vcJ9zfaBswh3k%3D",group-title="「抖音」娱乐",晚安安
+https://www.goodiptv.club/douyin/409885299883
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/f59706e46aa5a7f4fb20d836680f5e1c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120591959E8AC084C47B2A52B8D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=MXGqnOIvU4g4CsJAG35jM43Z%2BCY%3D",group-title="「抖音」娱乐",起司KUIO（求推荐）
+https://www.goodiptv.club/douyin/259603456084
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/7ab6b67214751a9aae6891c792873584~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919224FFFCAC8A016D146D9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=8XdZ1fJFgPegwxvegZgmFGlkqg4%3D",group-title="「抖音」娱乐",金鳞王
+https://www.goodiptv.club/douyin/955426509177
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/682e6de7af6edd2621a4b222c8a9ef09~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919224FFFCAC8A016D146D9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=rOChTdppJBuDpz1eGYElzb3u%2Bjo%3D",group-title="「抖音」娱乐",ノーフェイスマン无脸男
+https://www.goodiptv.club/douyin/924055986274
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/64f17d7debcd8a22411f1d329aee9630~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919786D34C1446103B47915&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=b7jMaeb8vvgF9a82uc%2Fsn7GbBMc%3D",group-title="「抖音」娱乐",大微精选服饰商行
+https://www.goodiptv.club/douyin/725699482090
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0f9145df5232209ab1f8f4643be51e25~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919806F042CC33B8F61E243&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=vZ8lfGsjL%2Bzbo3GlbkVJqybvDBA%3D",group-title="「抖音」娱乐",桃桃冰冰李🍑
+https://www.goodiptv.club/douyin/580703509917
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7523621896886225710~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120591902B6F9B5537EAF795BAF&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=n50gXM3zrk0rVE7jyDxi8ptQVvc%3D",group-title="「抖音」娱乐",兔子66
+https://www.goodiptv.club/douyin/949719987367
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_8327245a2867f27991ddce5392b8739a~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059194A14CFC99D14E5D01764&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",Leo.official
+https://www.goodiptv.club/douyin/72488473020
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7537237273289804554~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592071CF4C60593EC8B70639&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=Vh6G%2FV3h9SPsLHy9yhSGxun4ASo%3D",group-title="「抖音」娱乐",R
+https://www.goodiptv.club/douyin/153637652091
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/be8b452af3be17e6c24792c9759f3899~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919CE4416001B533675CAAF&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=ilxbTzQpzCdoBaRFytvDMy0K68o%3D",group-title="「抖音」娱乐",@&秀秀姐🌈💨
+https://www.goodiptv.club/douyin/438345305188
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_oMVgjiIQuiBgz7IoBbA8BLjGExiAuq0AAaAPP~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920132D3D95E111869AA1B5&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",王 宁
+https://www.goodiptv.club/douyin/488546476426
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/760206d5947b0f9b61898aee49ca29b8~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120591990E0D40CCFAD84A7A9F1&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=9j2tIZdsdLmQSVt5J1FQzDT0jn4%3D",group-title="「抖音」娱乐",小可
+https://www.goodiptv.club/douyin/612187660603
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/82c122971c6fcc4b7261d66129f51a2b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920A5B00B38053B15B6EE6D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=sQ5vNsOXINRB9pfhjqYB6jP%2BBpw%3D",group-title="「抖音」娱乐",安仁麻将机销售
+https://www.goodiptv.club/douyin/99484465174
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/ae976718aeaae49d4414ea02eac0c4ef~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059192B8685B931F0848F3FA4&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=LCyMuyKfYLUTHEPLVqs9XfkdGFU%3D",group-title="「抖音」娱乐",西西冰箱贴
+https://www.goodiptv.club/douyin/132969325865
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/54a5dfd775e2626a07eb761c8684aaa9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919786D34C1446103B47915&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=1h7Peo8zau%2BSRpkZZMB50a68W2w%3D",group-title="「抖音」娱乐",小晗
+https://www.goodiptv.club/douyin/582416601046
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0c32a7217ca9c94d5c3e5c3535b0f29c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919B72B26DCB2CA6E6E60A5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=e5NkKxTgljXD8DGT5GyP8N0RORc%3D",group-title="「抖音」娱乐",艳艳呀
+https://www.goodiptv.club/douyin/976900420322
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/d30b604180e50b3d6acc0b4374b9d102~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059192B8685B931F0848F3FA4&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=OEe9nkCmVWmsdJj9PWk%2FFsdUUIY%3D",group-title="「抖音」娱乐",三毛
+https://www.goodiptv.club/douyin/197592821135
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/4155d991579090cb6bf89105fc7a506e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919AD1E7E067C2BF562A9B1&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=tDpgwK0tzbwh%2Fw9r%2FDm1lsWz7c4%3D",group-title="「抖音」娱乐",灵玥
+https://www.goodiptv.club/douyin/348495251835
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_ow1xnDqYQACq53AAsAMEeTmARIF9gAFgnWCm2f~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920DA9E4F438E87C88C0582&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",沐霆工艺品商店
+https://www.goodiptv.club/douyin/51351708502
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/121c5891f5b8c81b5d3b680f42ff8eee~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200BF805EF32264F9F3774&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=6RzlAsQki%2Fd4w2VTM6VQuUjyfg8%3D",group-title="「抖音」娱乐",平模乐乐
+https://www.goodiptv.club/douyin/836900989614
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7510522275465251621~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919B72B26DCB2CA6E6E60A5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=3sdK4b95oo4F53K2utdl7GukPDA%3D",group-title="「抖音」娱乐",亿仟女装
+https://www.goodiptv.club/douyin/676651565914
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/f469a8c191ecb5670b36e05c2ced923d~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920C5462C6A608867A706BC&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=bATJpWH3fUQ2uxOCOr38MsC4Dtc%3D",group-title="「抖音」娱乐",悲伤炖雪梨
+https://www.goodiptv.club/douyin/341909699419
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/faf4c3990348808b08373916e922d9ac~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920A5B00B38053B15B6EE6D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=cGSsJa2vvShVqeZug4g9pEzpIEM%3D",group-title="「抖音」娱乐",一克拉的梦
+https://www.goodiptv.club/douyin/648604106583
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/356648a01e4ddb6747970a1b5fe2c482~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059201A5F219D9D658AB7F3EA&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=r6tT%2BrqwgKdqgO1%2FB4Y4DGj%2F%2B4o%3D",group-title="「抖音」娱乐",顶彩集成吊顶浴霸批发中心
+https://www.goodiptv.club/douyin/691234660132
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/94bf5925e7253196ea2d12d825e948cd~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205918CEBF2E746A4542A97552&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=C1z9F3EHRk0B1Dz63cuQEzjewH4%3D",group-title="「抖音」娱乐",𝑅.涵
+https://www.goodiptv.club/douyin/995443208652
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_ostEDf70AE9CI3Sc1AngFCzTE490AAePAASAkL~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059205CAC817D12B37BD2F699&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",房产小姐姐燕婵
+https://www.goodiptv.club/douyin/760649151530
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/549efe6f7b0c06086465034906424db6~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920C5462C6A608867A706BC&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=DrL2S%2FXkNUnFKpEwG0jxRNjEGqE%3D",group-title="「抖音」娱乐",朵儿
+https://www.goodiptv.club/douyin/942456854141
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/90a0cf155ed5b79cca29dbdd10ac4a30~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920AD39D37287E9EF89C911&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=VihRZwR9dvXPSz%2FoE14iwa0C6ds%3D",group-title="「抖音」娱乐",苑苑
+https://www.goodiptv.club/douyin/33210058652
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7530996337732340489~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059208CDEBD7E3B37799A4F1D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=%2F1wjUXrO2Ue6jGHN9Cx9CQ0gdzI%3D",group-title="「抖音」娱乐",虫二睡不醒
+https://www.goodiptv.club/douyin/963713380739
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/85c01cd6bf02e18a2264e19b13da5b62~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920477FCAD02628D2A3744D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=UYJxzHiIgFrXprZ6iwhPJet83ys%3D",group-title="「抖音」娱乐",李李～
+https://www.goodiptv.club/douyin/871696016100
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/14a0d88d3ae3c93ae9352f8f3e513ccb~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919806F042CC33B8F61E243&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=bgxI0lbW8MBFRkBPI%2BKX89Vti1I%3D",group-title="「抖音」娱乐",蕊蕊DIY饰品
+https://www.goodiptv.club/douyin/908661058896
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/83be79c73632fecaa5a43e020948d1d0~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592090E0D40CCFAD84A7AAA4&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=pa7KHg90AWCQ5rDSol2PCquFtXU%3D",group-title="「抖音」娱乐",新疆古丽特产店
+https://www.goodiptv.club/douyin/397032570176
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/3d4a96246d41c3eeea4e74cc83d59c79~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919B49CFB87F44F05BFD597&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=q7DxPK8KLL12gCBp6s6oA3vFA2s%3D",group-title="「抖音」娱乐",就是KK啊
+https://www.goodiptv.club/douyin/747796461799
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/bed3bbbe01cb3fdfef6310fea53305bd~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920A5B00B38053B15B6EE6D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=INt%2FxvRYHxM5YJ4wP5YUXmWvPl8%3D",group-title="「抖音」娱乐",小羊肉串～
+https://www.goodiptv.club/douyin/563453523344
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_o0aoO4uRAAA4A9gegIFsXFNDBfWviwAEAACC4Q~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059192B8685B931F0848F3FA4&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",阳泉市歌舞团🎷刘强(萨卅)
+https://www.goodiptv.club/douyin/945370848929
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_ow0CAOngEeAaIuCoXADDAtAAAOr6b9QikmqCgf~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059192B8685B931F0848F3FA4&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",⚡️妮乐ᴺᴸ⁹⁹【手指舞教学】
+https://www.goodiptv.club/douyin/705107121825
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7533583650856782632~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919C2BF52CEEFCE38D389E6&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=KwupB8llMhIRBO81B%2FMbmZKOzMA%3D",group-title="「抖音」娱乐",小草药
+https://www.goodiptv.club/douyin/592697629711
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_80065c0afa7a15754e200b32fe5d4314~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919B49CFB87F44F05BFD597&s=web_feed&sc=webcast_cover",group-title="「抖音」娱乐",叶 落
+https://www.goodiptv.club/douyin/37563614367
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/1a68036a93db799d6ced2020f0ad2cfd~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920477FCAD02628D2A3744D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=s%2BGHKPMUYMkTC66CnO6oGWZbac8%3D",group-title="「抖音」娱乐",2026全国护理知识大课堂
+https://www.goodiptv.club/douyin/975409062511
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7526524846952532775~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923CC9F67565FA1F7CCF2C2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=RAjf1BYfQ0OEpEgIkH4PsthemLk%3D",group-title="「抖音」舞蹈",一支秋🔥⁹³³
+https://www.goodiptv.club/douyin/930474759432
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7517243979193322255~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923C1F806B108EECE7E051B&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=tRSSuz8zdVCd0eQ%2BxwaTPt3Ldvs%3D",group-title="「抖音」舞蹈",邓邓（小妖本人）
+https://www.goodiptv.club/douyin/862008850860
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/ae754f862bd0fd6a138d70b3e118429f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=G5%2BkbXo5lrVH%2FEfstbVa%2BLiwf60%3D",group-title="「抖音」舞蹈",门铃响了.
+https://www.goodiptv.club/douyin/292518890252
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_oUmAAjA2EiQZaBKAX5Di0ATIPAZgIAzBvmll4~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",安芯钢管舞
+https://www.goodiptv.club/douyin/138646407942
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/723a12ea1a2d7e3761c89d93f35b8761~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=5tVlOFtdV3TF3oxFMtMzOmXTc5E%3D",group-title="「抖音」舞蹈",张能能
+https://www.goodiptv.club/douyin/784755842915
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/05a3be90cad75d8c7f132548286a6b8c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923C1F806B108EECE7E051B&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=I6%2BVnKLBN9jYW65zUDQqaJBs8pM%3D",group-title="「抖音」舞蹈",表情包💥桃之夭夭
+https://www.goodiptv.club/douyin/600589564245
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7213305405076785920~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=1zEJusNYa40Ar07tOFRyhvYHOBQ%3D",group-title="「抖音」舞蹈",茉莉广场舞教学
+https://www.goodiptv.club/douyin/75257758532
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7500928163027979058~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=d573lJiFLLocbUxd0th5eLgDL%2BY%3D",group-title="「抖音」舞蹈",七月的舞宫(养身版)
+https://www.goodiptv.club/douyin/830341220200
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6a1ab2177c51cc83cbbb24d1acf3c588~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=IDqRR8D8605dDSKAn94sX%2FGKg8Q%3D",group-title="「抖音」舞蹈",手舞小妹
+https://www.goodiptv.club/douyin/403810485697
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7369195613722381094~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=%2F6bWsLMc53fOjYzQUgCypav41yw%3D",group-title="「抖音」舞蹈",二迷糊
+https://www.goodiptv.club/douyin/23613780719
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c0c094aa73776620c459e36e2974f266~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=qr2fGjvG0OqguMNbfmGT0XddOPY%3D",group-title="「抖音」舞蹈",屹乐艺术 庞老师
+https://www.goodiptv.club/douyin/384253814520
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7527261510717164339~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=YOd7RK5BlHD4y%2BPZ0qwD3Vqvi%2FE%3D",group-title="「抖音」舞蹈",DD happy
+https://www.goodiptv.club/douyin/824959341077
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/79305fe5822aa6aada36af24f514049c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=hqdkJ9cM4TqDOfOJCYt1cE1L9SU%3D",group-title="「抖音」舞蹈",媛媛广场舞
+https://www.goodiptv.club/douyin/13561393641
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/d0db4d15f0ffc7b29cde034d8028db15~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=0JdWiUpSG%2B7apOoI5OIl1VxT6Ug%3D",group-title="「抖音」舞蹈",燕子
+https://www.goodiptv.club/douyin/440412260091
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b9537892f7afe67dd93b30495706e0bf~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592170F82CA22AFA3D70D4B3&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=CWiRLnMM%2FvjBsfRsqGPc3TE%2FBI8%3D",group-title="「抖音」舞蹈",优优陌
+https://www.goodiptv.club/douyin/935744124020
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/938e83d84204f0a3c9c3ca31be94799e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=Lw17bJt4tUsPScfv8Tb3M5VMZTc%3D",group-title="「抖音」舞蹈",如果遇见
+https://www.goodiptv.club/douyin/58845647368
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b737fd1fd44b14c9a337883a9139918d~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592170F82CA22AFA3D70D4B3&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=deRANnmkv21yLBQ2sAkRjDmzRwY%3D",group-title="「抖音」舞蹈",舞星璀璨
+https://www.goodiptv.club/douyin/840392060747
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/02fbbd7d939d9f81b1229f8976f79ff1~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=KE6S%2BzAoJHvS3wS0rC8nPn3kYMg%3D",group-title="「抖音」舞蹈",🌼Lili莉
+https://www.goodiptv.club/douyin/987807342496
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_49493f73867b4d7b9d1da92ccee1c167~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",黄琴直播小号
+https://www.goodiptv.club/douyin/882962590712
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/df64e6d51b5f27878fb115c095ad348e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=3pYwco6SHhosyvoj0TWfl9dGlRQ%3D",group-title="「抖音」舞蹈",刘漂亮
+https://www.goodiptv.club/douyin/5248475848
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/081566668eaa2f6be3da3a7e55ea2f1e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=VZcp4JorEHkV2fhZb7JkmthgshA%3D",group-title="「抖音」舞蹈",姚SIR健身舞
+https://www.goodiptv.club/douyin/41667113611
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/6f1bae9ab7878c8487d23d4603b203f6~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=JmMOFX2tNe2r1eNAmEKRIu6fnEM%3D",group-title="「抖音」舞蹈",🏠吴老师教手舞（亮姐手舞团🌟吴校长）
+https://www.goodiptv.club/douyin/507367632467
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7537305971341708066~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592170F82CA22AFA3D70D4B3&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=UD%2BRxqtbMUcjxKIXnClw%2FXLSScw%3D",group-title="「抖音」舞蹈",广场舞
+https://www.goodiptv.club/douyin/22724906596
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7537103507346918183~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=nLzjPlpmrc75cfvxiZCdYxxriXA%3D",group-title="「抖音」舞蹈",牙生 （舞）
+https://www.goodiptv.club/douyin/129240994144
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/e9827b078a1dbf030fbfa605ab0d8239~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=p5VPcNZvrZa2LHktQUe9W3s5HLI%3D",group-title="「抖音」舞蹈",楚妹鼓舞团
+https://www.goodiptv.club/douyin/455422050281
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6c1ade5853a3390ffa3ece120b1c5582~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=Mvcm5OpCtMmfTkObqimBFPgD%2FwI%3D",group-title="「抖音」舞蹈",自然风   * 宏哥 *
+https://www.goodiptv.club/douyin/903916754374
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/9a6eb474a69f4f48d941d7c538a8665a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=AgpUDGrsfDCLkxGVlv9rY06TRRo%3D",group-title="「抖音」舞蹈",安安🔆
+https://www.goodiptv.club/douyin/596654435726
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/cd0d404d91329a099a3878d41a714fb5~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=lPGvSeKIs4enwJRX%2BaPWa5Qoazo%3D",group-title="「抖音」舞蹈",白月光女孩
+https://www.goodiptv.club/douyin/874985936676
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/45f3027759c373c7efd7668f0bb2f99f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592170F82CA22AFA3D70D4B3&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=PbBNjs98usgBcrS34Ndlm%2FTLb9A%3D",group-title="「抖音」舞蹈",小姨妈🍒
+https://www.goodiptv.club/douyin/545790233695
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/efa1842b34afd605d1fe0ccbfacdea90~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923FF94CEC8AFD071B4D57F&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=OK3JP1wX%2Br4lnQmjOsKGvNEe0pQ%3D",group-title="「抖音」舞蹈",中国舞🔥开妍
+https://www.goodiptv.club/douyin/888125705211
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/c1c9b559858521fb0af6e495d7829750~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=BgEN4krswygNee1hwFyu4sC%2BlZE%3D",group-title="「抖音」舞蹈",交谊舞新潮舞🇨🇳校长
+https://www.goodiptv.club/douyin/364681685646
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/58731a3b8511033cde3189fb881936d5~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059238CF5F5CAA8D03F93F7C9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=I0pPcsExUoKNrIFa9fXzyHWYKwc%3D",group-title="「抖音」舞蹈",2大美中古品Vintage
+https://www.goodiptv.club/douyin/307198485705
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/6526db429bbfed8bd12e9f320cf33d47~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592170F82CA22AFA3D70D4B3&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=fv2xfypi3jnUQOovYFcSWM0mrZ8%3D",group-title="「抖音」舞蹈",范爷（经典DJ）
+https://www.goodiptv.club/douyin/651927026899
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7533207142757600063~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205921152327952A00ADD5A8E0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=QhI4waALAj64fe0D%2BtKVUHibGAQ%3D",group-title="「抖音」舞蹈",雨蝶（手势舞）
+https://www.goodiptv.club/douyin/623956544470
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/8ad3543e91db9181bf702da65ff5614b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=embq4cXz%2BNz7gRbbk4hedckOQ24%3D",group-title="「抖音」舞蹈",冷酷 英子老师手舞团
+https://www.goodiptv.club/douyin/546093493874
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7523146294022671144~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=Ae%2Fa2ZRp5cRV909xlwVPHdsh9dk%3D",group-title="「抖音」舞蹈",用户84636342
+https://www.goodiptv.club/douyin/994889831554
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/dbea4daf8a002de0d56cbf60ae7fd49c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919F7689A616D3F5FB5B147&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=dNUJmwG0yNvDGif5agryCzgSbnY%3D",group-title="「抖音」舞蹈",水灵
+https://www.goodiptv.club/douyin/427142968038
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_oIJlAQ1hGpERiAtyAuAIe2JfMNAIHJANAzzCg2~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",曾好看
+https://www.goodiptv.club/douyin/97688576533
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/mosaic-legacy_2d287000598ca09090f40~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",挖掘机界的小趴菜
+https://www.goodiptv.club/douyin/443641318749
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7391450431983422248~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=zpI0gxAyIb73c5AW1XMvi7FEfdk%3D",group-title="「抖音」舞蹈",小火车01（乔伟）
+https://www.goodiptv.club/douyin/328465941434
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b70b6afc872d364a3093e50404b1f386~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923975BFFA9D57ACB4613D6&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=kewaL2e%2BCmZaGVjyK2hTdXKzj9k%3D",group-title="「抖音」舞蹈",云南少帅⁷²⁰
+https://www.goodiptv.club/douyin/558182541805
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7090555472197339945~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059196D6CCCE6AD269D114CA9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509159&x-signature=t3uDw5f4da0PObrL4FCnUXqN8dI%3D",group-title="「抖音」舞蹈",莉莉炫舞健身
+https://www.goodiptv.club/douyin/141108830055
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/8c542f0c5161987a4b86ff49c915fe9c~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592392FDC93361447E3DD8FA&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=qjM21OflU2fsww38kLD4PWF6fDI%3D",group-title="「抖音」舞蹈",舞六七
+https://www.goodiptv.club/douyin/951655243903
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_09c5d28110c1a187067522455ebd9c7e~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",北方-
+https://www.goodiptv.club/douyin/47555842084
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/1eaddfaf426274a82542b4918ba81bd5~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=o%2BBioRh1rpMXuZzJBNzCoA%2FqZIc%3D",group-title="「抖音」舞蹈",晓莲20.10分开播
+https://www.goodiptv.club/douyin/355041240988
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_ogN9EAfJoKNJAAy9OBCqIVgvgAf5AlAbPkzCAh~tplv-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205921EEC80365E94FB7F956F2&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",迷人露爱跳舞
+https://www.goodiptv.club/douyin/93681554283
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/e5e69dc0b1800f3b4d954765756182a3~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=3vujI4CIOhH6hyZbKMCGynOY6Io%3D",group-title="「抖音」舞蹈",妮妮妈
+https://www.goodiptv.club/douyin/13471882741
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/19f30bc5272a4816e4aa97df86d194ce~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=f%2FLOLpvI07WfRsVzlHkOaP8mi4Y%3D",group-title="「抖音」舞蹈",雨萌
+https://www.goodiptv.club/douyin/179454892483
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/2c282d62132c5f8b63989373c81d953b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=gG1TQccuqrOF5N4T7eEtmlQPq9U%3D",group-title="「抖音」舞蹈",肉丝🌟崔花
+https://www.goodiptv.club/douyin/139284414705
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7537296693977418539~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592385745297A25CAF7C483A&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=JHehQZO4201%2FPS6fuogoW8PBZxk%3D",group-title="「抖音」舞蹈",才艺可欣💙
+https://www.goodiptv.club/douyin/713513936070
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a6810874d1978a1ae14179b245e3a1be~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=ud2SqLe9HvzMa7lCuLBb0LikiNk%3D",group-title="「抖音」舞蹈",乡村大舞台
+https://www.goodiptv.club/douyin/215547015453
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/4edf6a96d0c9961716e91526dd8fa8e3~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205920FB5BC8ECB6293AD46B2D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=7HI4RXY1rjeLp2ZCbhLM0gTdy1M%3D",group-title="「抖音」舞蹈",燕子姐1（安徽六安燕子紫燕传媒）
+https://www.goodiptv.club/douyin/558043586299
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/2266a3054e8114792202e12131ef9002~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=0vKYVgAj1xPVWED2gm%2BdACoJwmE%3D",group-title="「抖音」舞蹈",舞者香宝
+https://www.goodiptv.club/douyin/15736835288
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7537290739060083519~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=dLfUEiLANfyIxEEZr4v%2BhOme%2Bdc%3D",group-title="「抖音」舞蹈",爱尚舞@
+https://www.goodiptv.club/douyin/464742414934
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/f11f682d13a1de18216b314246893a6a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=4Ri%2F%2FyT%2FWIZfqC1BOyYZv4p8z2E%3D",group-title="「抖音」舞蹈",湘华万兴
+https://www.goodiptv.club/douyin/198785223390
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/e1f1150be8727cd58952a913fef7425e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059223251AEBA47E67469A7BF&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=y9tBRmHTlb2k2OAlLV1oXMtcoL0%3D",group-title="「抖音」舞蹈",静儿
+https://www.goodiptv.club/douyin/285853889923
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6d4c0d24aa03a0268995d18e0188ba0c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=5kJAFUHuP%2BrWJGwtd%2FkudpDuOCg%3D",group-title="「抖音」舞蹈",彭家人
+https://www.goodiptv.club/douyin/957060464607
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/1f9ef803bccab5ea784121428a5c4737~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205919157AE77869B68241946E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509160&x-signature=PPudlVCsj%2Ff%2BaPHyMWPx2GICeWg%3D",group-title="「抖音」舞蹈",@勿忘我
+https://www.goodiptv.club/douyin/324674524160
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7393688030428875574~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=kmF%2BMAfYo8SvrxNhWY6trRgLG4Y%3D",group-title="「抖音」舞蹈",欢姐🦚花样指舞(创始人)“（收徒）”
+https://www.goodiptv.club/douyin/197147691170
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/356ab3624db272473eb53a734930c1bb~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059200EA462A23234E265DA53&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509161&x-signature=dDTE3I%2FPQ5g5%2BpS4AQvhNB57QNA%3D",group-title="「抖音」舞蹈",康嫂
+https://www.goodiptv.club/douyin/980779058479
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/abe38c94c8fc3fd2ca380364cce4e490~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205924595F4C92FC528344A37C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509164&x-signature=WgZ6DWgxLUmMV8ViRRaq1eDKw7U%3D",group-title="「抖音」舞蹈",希望
+https://www.goodiptv.club/douyin/168948406182
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/37f280ebb68ba1806b1621c2907aaf88~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=j%2FRdPBMECfbnovvc52rVaL92acI%3D",group-title="「抖音」舞蹈",益阳溜溜
+https://www.goodiptv.club/douyin/47979659018
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/759a6cee9b9aba252ecc68a6f9934fb7~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=UR%2FfXe3JUhohalpH9Qa1mq%2Falu4%3D",group-title="「抖音」舞蹈",琴声依旧有氧健身操
+https://www.goodiptv.club/douyin/472519576554
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/685979519285952fb65ec035177239df~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=mb3el8gsjkVt9vBJXzxLatgQr9U%3D",group-title="「抖音」舞蹈",潘少(主播兼主持)
+https://www.goodiptv.club/douyin/552427077664
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/03c3d498deac63046313f088b3ef2533~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=xPwPSpRbhK3MrQdDsDsPdf2BH8c%3D",group-title="「抖音」舞蹈",迈好物酒业🌈李鑫
+https://www.goodiptv.club/douyin/198367876591
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/1182557fabe87099120f5b1925fb016b~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059249A8AEF5950A1D3207475&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509164&x-signature=Ln1KXunbhcvshDgocEq34L04pxE%3D",group-title="「抖音」舞蹈",小婷不吃芋泥.（打不过紫怡）
+https://www.goodiptv.club/douyin/294977006674
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/30eada11e3bd6bf9b5f4bce0943add47~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925015CC19296D2467DBD51&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=rZcjDwhFbEcVWEv1Wp3eIh%2Fvvlc%3D",group-title="「抖音」舞蹈",微小包包子
+https://www.goodiptv.club/douyin/39883108527
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7403272399862663947~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=fQ5mG7ugRUDMUv0so5C16AOFWYk%3D",group-title="「抖音」舞蹈",小纯宝⁹¹⁶
+https://www.goodiptv.club/douyin/144029689131
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/4a96b96ddff481e49dd6b8cbe4b8828c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=S2O0U9n0Bb58ojxsh6tghPpcpCU%3D",group-title="「抖音」舞蹈",晶晶⭐️💞ᰔᩚ手舞
+https://www.goodiptv.club/douyin/747042922961
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/53db695c3fe19d8f690d304bbc2ac53f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=KkFfWZF9M%2By2gSSWCDz0VITcK1s%3D",group-title="「抖音」舞蹈",钟曳丽舞（早上8点02直播）
+https://www.goodiptv.club/douyin/48937936768
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/f5b9553f6caf115629557359d252e2e2~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925FD68333EAF50EE1472FC&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=41iWF%2BZZgMPIOXYIVoXAKLl8PhQ%3D",group-title="「抖音」舞蹈",李漂亮🦊
+https://www.goodiptv.club/douyin/706846922134
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7323789438050372406~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205924904F99767729BB485716&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509164&x-signature=1OmwhsdAYlH9fs8zMOTv2ZqjMEM%3D",group-title="「抖音」舞蹈",小熙酱
+https://www.goodiptv.club/douyin/215813525764
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7502056827136330534~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=B3XyDKo955ALWn4hfYjbgGr5jEg%3D",group-title="「抖音」舞蹈",隔壁小金
+https://www.goodiptv.club/douyin/80438351068
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7537295065094441738~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=w7WSkg77oicrX5LaRqjOK14wDY8%3D",group-title="「抖音」舞蹈",兰儿
+https://www.goodiptv.club/douyin/356208358601
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/70509c8d4a5bc692afd90d1587c5067a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059241C12E3B17F4B6CB72D8F&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=RHjIFKIiB6rzZzF6o5ANs3oM6iE%3D",group-title="「抖音」舞蹈",彤彤爸爸（为爱而舞）
+https://www.goodiptv.club/douyin/376683430839
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/9880debab5e7256d9405882f1ae6cbfd~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=CuzFpj5uhUvclCRDuApNZ51oiDg%3D",group-title="「抖音」舞蹈",柒公主手舞
+https://www.goodiptv.club/douyin/159414308936
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7409550296805919529~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=3d2CPnJFs4qzOkltjVZ0CpKznG4%3D",group-title="「抖音」舞蹈",呆呆小狗
+https://www.goodiptv.club/douyin/183793532913
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_o0NvZjBsAEgIg6in0gPi4hAK4EOAwA5MBAIOR~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",陈家大丫头（才）
+https://www.goodiptv.club/douyin/688092127138
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/54126a97c693e636e5bef283d42d0abd~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",心静梅姐（爱跳舞首播晚上7点50分开播）
+https://www.goodiptv.club/douyin/929388262764
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0b2a6f8536e6d8715d9814abb29c162c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925CE9451A64E4023B577D4&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=e524HefxX9fDNSHx816EEjT0Kw8%3D",group-title="「抖音」舞蹈",泼天的富贵2.0👑
+https://www.goodiptv.club/douyin/680202201593
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/97717686864a40ebf515cbe09218d984~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=l%2BXmpQJKv8lG%2BV6mc233MywVeW4%3D",group-title="「抖音」舞蹈",黄姐2（首播）
+https://www.goodiptv.club/douyin/466651943856
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7531357759229954843~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=NidUTDa2xM5cW3pMjhLgRNXlKMQ%3D",group-title="「抖音」舞蹈",张家三姐
+https://www.goodiptv.club/douyin/183390059730
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/1160ef9e0dd42b7bda2d9f8355a25927~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=j9iDuljkBO8MBFvLfw6FfCx3Ps4%3D",group-title="「抖音」舞蹈",小燕子
+https://www.goodiptv.club/douyin/592460157562
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7518395870249945856~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=16muDOVbjlNRF8VgAGbkgMfgHAE%3D",group-title="「抖音」舞蹈",迅猛龙之女帝归来
+https://www.goodiptv.club/douyin/899853699378
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/2fc334b43084006ac438c7b147e83c9c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=ziud0%2FsvjZz%2FLUhO5KMsujte4%2Bs%3D",group-title="「抖音」舞蹈",米兰
+https://www.goodiptv.club/douyin/14125552362
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/580df88e4511d04e5baafb51493cafd0~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=urgyPMiTPPmSAIYWu7J5UB3v3rM%3D",group-title="「抖音」舞蹈",爱笑的芳儿吖
+https://www.goodiptv.club/douyin/524910654392
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/bc096cb1e8d445ce97fa77078834f276~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205924E3FB6DB7822F3E29F88D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509164&x-signature=bvPXRDMaMSH6XNcRJp5p1sNnIxs%3D",group-title="「抖音」舞蹈",青葵🌻🌻
+https://www.goodiptv.club/douyin/825892605750
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/f1b76249f72f7f3c2a231d86880e0d41~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=3xtOb8WGWoI%2F%2FP%2FJmAWHHyOxWMk%3D",group-title="「抖音」舞蹈",心心（直播）
+https://www.goodiptv.club/douyin/244205953239
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/b9cbb75ba7cc948120b88bf25067f01e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=o12iwyQLoW1q7OzaFKMtN2jUbZ8%3D",group-title="「抖音」舞蹈",小金宝✨
+https://www.goodiptv.club/douyin/270223790393
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/689ea2a0d8b0745bf82cdcba657d4f99~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059243184C249C0339C49BC55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=drJeid6TU19DiX5ZYtzjId8%2Fl58%3D",group-title="「抖音」舞蹈",我叫小凤
+https://www.goodiptv.club/douyin/207838853909
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7465265983935417107~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=yDuSXKeQ5%2F1H1%2Fg5UBzJZo%2BihJU%3D",group-title="「抖音」舞蹈",燕子爱舞（晚8点20分）
+https://www.goodiptv.club/douyin/970075007682
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/mosaic-legacy_fd570000f92688d0484d~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",🌈123歌伴舞🌈
+https://www.goodiptv.club/douyin/146998630549
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/30218f9102a7ca77bdf871472c6dcd4b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=vdS6JNAqoC9rgy%2B2LiWJksJZfno%3D",group-title="「抖音」舞蹈",金溪四季街舞！
+https://www.goodiptv.club/douyin/792212931722
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/c1a75e1b98162641d364cfab523d8742~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059230EA462A23234E265DBBD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=45yCZuhsxZBFPAlq7wC5ZQO7tEw%3D",group-title="「抖音」舞蹈",圣特
+https://www.goodiptv.club/douyin/221900717932
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c000-ce_owQJACOQTVPMZESQgv8K08QDWBA7CAkRfeieAI~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&s=web_feed&sc=webcast_cover",group-title="「抖音」舞蹈",田甜二姐
+https://www.goodiptv.club/douyin/244034410303
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/19538e82dd25e6ad4ea5ab00ee6d751b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923761CE0AD1E4AF2AE3811&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=oc92FR0EMCgB5Mo7zlZgPGvi2hI%3D",group-title="「抖音」舞蹈",金星团队
+https://www.goodiptv.club/douyin/439055602414
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/7d8a4534701fea30eda105358c4760b3~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=BIzhDclvknrt5bnmb6fTAOT3xro%3D",group-title="「抖音」舞蹈",芳姐曳步舞
+https://www.goodiptv.club/douyin/33016900539
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7342073944046045986~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205922B1A23F034389E37B8315&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=ki36PbuokjZ42nEZGzSW8KUwsIc%3D",group-title="「抖音」舞蹈",静姐💃
+https://www.goodiptv.club/douyin/568530294375
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/40b708940167f57c0c781e5cd61516bb~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059257625EFCC47E91C7823F9&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=pQEK8yBED3ZYuY9hTLLeyhHtvDE%3D",group-title="「抖音」舞蹈",紫霞仙子、
+https://www.goodiptv.club/douyin/266299155290
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/2d936bf9d8410f5a2f31425931bc2800~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205923761CE0AD1E4AF2AE3811&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=Ufn8e4Lu%2FUCg1aS9hGKcjCjDC%2FA%3D",group-title="「抖音」舞蹈",暖心❤️晚上:(7.30)直播
+https://www.goodiptv.club/douyin/68710142686
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7537279456340233002~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=tTsA7ZYAmXLQYa1kA50nLTCfYdY%3D",group-title="「抖音」音乐",农村娜娜
+https://www.goodiptv.club/douyin/201868577086
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7248501751509289768~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=9fsBzp9y9Vb1O8i5VUIy6YnTGdA%3D",group-title="「抖音」音乐",小阿涛🎤（一家三口）
+https://www.goodiptv.club/douyin/720889562552
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/1fc27c3c20c4548d042369d8b8b5de98~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=lbtxgUCD4Q6zuFQrBBCsbEroO1I%3D",group-title="「抖音」音乐",二师兄生活号₂₁₈
+https://www.goodiptv.club/douyin/75315914793
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/ae777a226049805622b504fa518892a9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925F673D30D909E78E5708E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=0Ew8CAoOyIAKatDQTVp9NdbOlJk%3D",group-title="「抖音」音乐",钱蝶蝶【收徒】
+https://www.goodiptv.club/douyin/30270134860
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/f7d776d0d01eed422cda2e4df6dc3a73~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=%2FOZjerqkisenf%2FEkKRcHSG6QPhs%3D",group-title="「抖音」音乐",罗俊7月5号6号公司开业活动
+https://www.goodiptv.club/douyin/516708795038
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/01b6a53deadd8ab6d6e21730692e4415~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=dyVUYbhsG4caLtDZnH5U5mCTjlU%3D",group-title="「抖音」音乐",赵露露（双胞胎）
+https://www.goodiptv.club/douyin/49849987389
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7537286018290993955~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=7T29HHMSwqs8tOknnv%2FaBQtikxc%3D",group-title="「抖音」音乐",怀远杰歌
+https://www.goodiptv.club/douyin/350450920405
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/ac6b13786956858aa83bace937c55e2f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925F673D30D909E78E5708E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=fYQYjTCTUYwYxJWnSmwLXxCdOZE%3D",group-title="「抖音」音乐",王较瘦《小号》
+https://www.goodiptv.club/douyin/88175469778
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/160a35b66f2f2881e43d44d65ba62421~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=VnkpwNvejz6loirQMUBdCUbaL3I%3D",group-title="「抖音」音乐",山歌陈陈💕收徒中
+https://www.goodiptv.club/douyin/307420091895
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7536571138336492323~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=5Te5gEZ%2FyOpBAVFP8uEJ0jFNb00%3D",group-title="「抖音」音乐",阿文（178宁）
+https://www.goodiptv.club/douyin/652503306227
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0881b0ca03fc79f345a36521fa613cf8~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=YmIXvmY2cuNwW0ZtpXVc5wdBmXM%3D",group-title="「抖音」音乐",云南姐姐阿贤和阿群夫妇
+https://www.goodiptv.club/douyin/74631932994
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7531720080385477376~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=V4tww5TG0yEKvxsR92zhzBnUsHc%3D",group-title="「抖音」音乐",荆家班(民间小调传承人)
+https://www.goodiptv.club/douyin/766169953393
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/063e9ebb9f86e8478d3393c684130f10~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=ukzaeAc1NT7Y2e%2B8QQB7CjE6%2Fpg%3D",group-title="「抖音」音乐",胖妹爱唱歌
+https://www.goodiptv.club/douyin/31983148227
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/623c78617ca7a3ed65f0b8b82a08bbcf~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=07KTov9rA3BWU8sZymMHUKIZxGo%3D",group-title="「抖音」音乐",姜英
+https://www.goodiptv.club/douyin/852509142744
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/81bf9674206b7d6f34126ad8c6602dd6~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=8zzeziqS0riVTDzs78ni1Ldt0oU%3D",group-title="「抖音」音乐",临猗农民苹果哥
+https://www.goodiptv.club/douyin/769561489369
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7253734861332876032~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925F673D30D909E78E5708E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=hr4d3s6CDjUe9DP8GHukcOHQ2sI%3D",group-title="「抖音」音乐",卖米的老吴
+https://www.goodiptv.club/douyin/17763347301
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7376850913895598882~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925F673D30D909E78E5708E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=s1BxMtVPO7TSQl5%2BZweqP9VZ7N8%3D",group-title="「抖音」音乐",左萌萌
+https://www.goodiptv.club/douyin/419175005924
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7485686850917976851~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925F673D30D909E78E5708E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=gd85FRLtcFrdsH5hji6JVb0YLcY%3D",group-title="「抖音」音乐",东东668（8月26号生日）
+https://www.goodiptv.club/douyin/236529614593
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/fca6cd9a9ac62fe133cf14366aa97643~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925CE9EEE132D1D0FE01CFC&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=xZo2mTtRacSBV7BT1%2FbUQZdvTrQ%3D",group-title="「抖音」音乐",古蔺💫阿刚《刚家军》
+https://www.goodiptv.club/douyin/7796974820
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/f8d255db939bcb5f828560db1c016a1b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592540481F65F675C86AB65D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=NuVtSyGSR%2FwNpq7N0ZaSsMd445s%3D",group-title="「抖音」音乐",☀️刘晨²⁰⁹ ☀️
+https://www.goodiptv.club/douyin/916517921284
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/d66a9a118c19d653a6fea7c7b2aee094~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205925F673D30D909E78E5708E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=bP73MEYH3HZeX7H624yCne9T0Js%3D",group-title="「抖音」音乐",大濛爱麻将
+https://www.goodiptv.club/douyin/831695640234
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7005924271726365451~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=B%2BbFSHrQVgu5vaOrM8DFXndhE%2FU%3D",group-title="「抖音」音乐",郭军
+https://www.goodiptv.club/douyin/873351073744
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7520171381737278249~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=dceaujP4KSr8q%2BdawFAIccNEUqo%3D",group-title="「抖音」音乐",难娃（著名喜剧演员）
+https://www.goodiptv.club/douyin/332694290913
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6e6dc7c56b904dcd8f3e9356650254ca~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059264391FC6172590CC5E978&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=roheHbSm4TAG0szKa6VNmucRy4c%3D",group-title="「抖音」音乐",慧慜（21.20开播）
+https://www.goodiptv.club/douyin/24413721210
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7431750320386034443~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=e9E%2FZCzrsmZuDlgGoO71bIA9sWk%3D",group-title="「抖音」音乐",小松子大王
+https://www.goodiptv.club/douyin/465939417694
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/65ffcfa359eef42e654e9ec9fd737211~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=%2BlZCVxVakqMxMHPgHgTIV7aUOQU%3D",group-title="「抖音」音乐",🍒情歌小峰
+https://www.goodiptv.club/douyin/85975916346
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_8fbf03ade32d4670b130a974568b540c~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&s=web_feed&sc=webcast_cover",group-title="「抖音」音乐",王磊（建培哥团队）
+https://www.goodiptv.club/douyin/27528991017
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7458219013379214120~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059260EDC1DFC848E4CAEFE3C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=Peq3qIBfq%2F8qrboO2xq2eEwSnAg%3D",group-title="「抖音」音乐",小金子007
+https://www.goodiptv.club/douyin/914691561823
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7528701569240419135~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059264391FC6172590CC5E978&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=BpNWq69iLOuyWG%2B%2FNhBqillwxzI%3D",group-title="「抖音」音乐",菊花小号
+https://www.goodiptv.club/douyin/335369251244
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/34faf82c41e46f954bfd594bcdb12f30~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059254CB64C2F9598F164BA24&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=jMk8mNPuzvSbhfYwZ%2B0c2VF%2BVvo%3D",group-title="「抖音」音乐",楚剧网红张月明
+https://www.goodiptv.club/douyin/188282082840
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/76e4a9d22703c24ba44b05068b351018~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C249B1B4A3ED27C45F29&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=Lkd4mVMKJnt0Y%2BbLiAtARy99gz8%3D",group-title="「抖音」音乐",小阿六（收徒）
+https://www.goodiptv.club/douyin/655545109292
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/312148b2e91fa7644ac26f9f05778ab1~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592642F956D25E4BD28B4B88&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=s%2B92wRoJ65hOu6Plm%2Bm3imcANZY%3D",group-title="「抖音」音乐",山里小周
+https://www.goodiptv.club/douyin/879835650695
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/cbd8f62d1d081df514ad053304682d6a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928558C9D44A9232AA01122&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=NsuCuwwkr1Q%2BrsrtOoA7O13dPk8%3D",group-title="「抖音」音乐",毛头
+https://www.goodiptv.club/douyin/161912976359
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7517615685506370339~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592801DD04395870C973225B&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=OuKKXuG61BFZKkQdlnLCVJLDT%2B8%3D",group-title="「抖音」音乐",果果哥（628）
+https://www.goodiptv.club/douyin/674487234101
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/5109b253a7551e3a329736c901f6c243~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059276ECA2C7D5ADB7C6A837E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509167&x-signature=fx7OAUruvmi0PMqj8DnwHXyCPlY%3D",group-title="「抖音」音乐",妙莲
+https://www.goodiptv.club/douyin/727432928946
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/4486baeba34dcfb6c8e9d0cd931fab72~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926437AEE65C55ACD80FB04&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=JRt3Zvs9weKLt5w%2BgwmxIer7%2F2A%3D",group-title="「抖音」音乐",小波千里寻母11号12号认亲仪式花小磊
+https://www.goodiptv.club/douyin/861205360044
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/1aea48170ff147885eee0dba65a859f5~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=J6n4L8Mj%2F%2FSPitgSHRxkWbtcyV4%3D",group-title="「抖音」音乐",夫妻俩
+https://www.goodiptv.club/douyin/396116208757
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/9b29c0a7b66e4baf668ee5651e410e6d~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=WFR8Mm5VJGF2C741vRZN0NhsOXU%3D",group-title="「抖音」音乐",琳雪💫
+https://www.goodiptv.club/douyin/221894006955
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/23a6acdf43ae61136851b5c650041672~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928011401B559EDF355E323&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=%2FbTZtac%2BNvlaU9oqe7DkVlvVOT0%3D",group-title="「抖音」音乐",芳姐（晚上7点56直播）
+https://www.goodiptv.club/douyin/712499120605
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/5730538300b596db8c82fcd20a3c24f0~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059265B5AE38525CF8D48BE22&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=NfUU%2Bp%2FxElRe%2FYQ2nfl63iibN94%3D",group-title="「抖音」音乐",牧原🎤
+https://www.goodiptv.club/douyin/663961695204
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7453395644124957492~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=1DpvJJ1AnT7e6dHf349UPrnYZsk%3D",group-title="「抖音」音乐",农村小王
+https://www.goodiptv.club/douyin/571805238492
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b78f648e6c8972cc2789d55e7403a031~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059277B5D4A40E143F2C7D306&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509167&x-signature=LdRHszjs01q2T0OELEpc0dioy5Q%3D",group-title="「抖音」音乐",新叶（收徒）
+https://www.goodiptv.club/douyin/433626418703
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7422541750604303155~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=cavYpm%2BWGqIhP7CAQr62i4%2FK9AQ%3D",group-title="「抖音」音乐",糖果麻🎙️首播
+https://www.goodiptv.club/douyin/439116706549
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_o8VUmAuAeIXA3DNf6AEADABzAdBiiA5vCggO5i~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059278BE5FC3C41A171B076CF&s=web_feed&sc=webcast_cover",group-title="「抖音」音乐",张晚晚🥳农村幺哥7月31号8月1号活动
+https://www.goodiptv.club/douyin/454509068155
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/16bed9f3cf75ca76d52ad082c36e4ea6~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=jZ3dKeb4qEw02hf4Cb7NqQQowIA%3D",group-title="「抖音」音乐",农村(四幺哥)小号
+https://www.goodiptv.club/douyin/634222482297
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7521708187888831259~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=brMPJwZBer3UPFu7obHmDVElKqw%3D",group-title="「抖音」音乐",通讯好友。
+https://www.goodiptv.club/douyin/47860927315
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/575f63f46fadb92565ff5afdc685f563~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=L5HOP8Ke3J22zIuGdI9WldokCpE%3D",group-title="「抖音」音乐",傻帽
+https://www.goodiptv.club/douyin/550943551032
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7455993035004873484~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261B7061D44609EDCFF8D5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=zfBABCypVASix3lha%2FiMlFGbgVA%3D",group-title="「抖音」音乐",小辣椒🌶️（身体修养中）²²⁸⁷
+https://www.goodiptv.club/douyin/800818302655
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/e3bf482dbd1e890fd3eade44aba88660~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592531CB75A6F5D72A942CB8&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=mii4%2Fl5qbCsmwqv5xQ1uew44Ago%3D",group-title="「抖音」音乐",戴哥
+https://www.goodiptv.club/douyin/774571463056
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/webcast/6994947282814683942~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205926C606A3D114CFAF85BEE2&s=web_feed&sc=webcast_cover",group-title="「抖音」音乐",编歌柒柒
+https://www.goodiptv.club/douyin/521659922318
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/27cc6e8e415a68117f2ccd98c51a7b07~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592715050C7036897A69AE20&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509167&x-signature=QcaLw3iyglzx2QDFRVFq28W5AFI%3D",group-title="「抖音」音乐",女一号山歌
+https://www.goodiptv.club/douyin/987607021476
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b80cdff1d25c51dea452cb75490cfa2d~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293A99D35010421D872CCE&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=oK9reMZTzDZx75AOb6V7OC7gzJc%3D",group-title="「抖音」音乐",梅儿生活
+https://www.goodiptv.club/douyin/431406298156
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7263047391845190455~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592947584035D4405F9C179C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=wfGsbDe8ozwJuwWE8Td%2BEVvoZAA%3D",group-title="「抖音」音乐",寂寞哥哥《每晚8点直播》
+https://www.goodiptv.club/douyin/896111604942
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/5b803bfee5f04267481afebf6646b143~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293A99D35010421D872CCE&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=k3%2FpHwH0%2B4YIWi85AUwIOYhX3vs%3D",group-title="「抖音」音乐",芳儿12号下午两点周年庆
+https://www.goodiptv.club/douyin/637314195324
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/08e81a2f698d50e830463bcc4c33d103~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293A99D35010421D872CCE&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=WY7U6WlJ4IyFIzeps0QEN0IsLZE%3D",group-title="「抖音」音乐",阿甘0713 小号
+https://www.goodiptv.club/douyin/71011381134
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a139fbddf9a7373fa585ef3e368662eb~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293A99D35010421D872CCE&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=8N4qcqE%2FDpN%2B%2BT8qdflOSO6oWWo%3D",group-title="「抖音」音乐",山歌雨神
+https://www.goodiptv.club/douyin/69376219017
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/9d7c03ed81b2fed5b8f47ca7eeeb68ad~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293A99D35010421D872CCE&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=Iejrinm1tXzaHAm%2BguXxyz8W1Ro%3D",group-title="「抖音」音乐",情锁🔒收徒
+https://www.goodiptv.club/douyin/27900322778
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7519907249695853363~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592941A61B569A6CCB4776AC&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=p1%2FcCRA7jugbmD0iTjWxM8dcNkg%3D",group-title="「抖音」音乐",内蒙广哥
+https://www.goodiptv.club/douyin/321920398198
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/62ed8c7929df0a670607fd12762f94d0~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205929B20EA78750A87FAEB547&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=QpOZBZr%2FK1Y5YTXVwDK7cdYFkvc%3D",group-title="「抖音」音乐",（发哥）从头再来
+https://www.goodiptv.club/douyin/59834013397
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c47b673e1cbc9fc93e37da7d9f94b8ac~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293A99D35010421D872CCE&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=rDUvUveSh1rDwhE64qkMJ1unA5U%3D",group-title="「抖音」音乐",凤姐山歌
+https://www.goodiptv.club/douyin/67174490539
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7528389700913449778~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205929AD5FA82C667674BC8661&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=QpK3Mq3tWvQWK5vwTGxuJo0hCzI%3D",group-title="「抖音」音乐",幽兰
+https://www.goodiptv.club/douyin/599037470820
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/15b07c51f8c3051fca4a0c718ffb41c1~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592801BA79A3742B594C8C1C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=f%2BT9j4Bd%2B9dE8urvI8wtDTB8hOM%3D",group-title="「抖音」音乐",附近0.1米（通讯录好友）
+https://www.goodiptv.club/douyin/107598340854
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/2ab1f70a8a359dd367f9a74d1d337b7d~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592521C47709351269CF0A25&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=%2BlmB9rJ9yiY1DN50lu4jrTviBXM%3D",group-title="「抖音」音乐",小朝辉的生活🦾
+https://www.goodiptv.club/douyin/756148650363
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/e4f87897d2c49f8458ba37c3063c4dc1~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928F40951AD1A3F443AB93F&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=%2FUnNn%2FwDM2HzzmdZOB0IBkyAX14%3D",group-title="「抖音」音乐",情歌小燕几🎈
+https://www.goodiptv.club/douyin/727591471979
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/2eb222929326be3ec7917ce5b61bdba6~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592521C47709351269CF0A25&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=9qC%2B4SEu%2FePgwJfHsERl5ywiGF4%3D",group-title="「抖音」音乐",努力前行189
+https://www.goodiptv.club/douyin/230735909795
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/54c7415d83071af87076aa22d9745e7f~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592271675B196C368614BAA7&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509162&x-signature=kPKOKMJrczubERVESUKt1R1ZRoY%3D",group-title="「抖音」音乐",小意山歌
+https://www.goodiptv.club/douyin/129126683070
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/7ccae99cdc646a4d4637fa2d6a7fb388~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059235B646F2186E6977EB2F0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=trV%2FIyXCai7KuqxjT%2FjqsJmi5Jw%3D",group-title="「抖音」音乐",农村二娃子闯娃
+https://www.goodiptv.club/douyin/122775418815
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_635472cbf7304da596646b75559ed79c~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059309F0E08E4BAD3C4F95446&s=web_feed&sc=webcast_cover",group-title="「抖音」音乐",风雪花开
+https://www.goodiptv.club/douyin/49927486112
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/13330c63aa6a94c0d932e2bc372a0cea~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059290D7201AA1FD4A1A9ABE1&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=%2BVSxDA1ENosrpqNny7zv639ZWDk%3D",group-title="「抖音」音乐",高飞大舞台（团队招人）
+https://www.goodiptv.club/douyin/136556016361
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/4ced3a778b14d9c87a0a2191df7363ff~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592894E2CDB23559DCC0EF3D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=LoWJ2N%2F1GOXWtDOW9EPtYfQCZWg%3D",group-title="「抖音」音乐",小梅🎤（晚上7：50首播）
+https://www.goodiptv.club/douyin/560127617640
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/e6db588fc12a60284f5a7136e28a56e2~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592861186B828ED3737C33FC&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=IFHumDJ8GGELIEYsPwJ3LPtHBIQ%3D",group-title="「抖音」音乐",珍珍姐2
+https://www.goodiptv.club/douyin/52158575852
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7529459944115161871~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059235B646F2186E6977EB2F0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=8XYoDw1%2BbQvIg76%2F0kik4vV9fZw%3D",group-title="「抖音」音乐",恩甫百货（117）晚上8点开首播
+https://www.goodiptv.club/douyin/199458334733
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/7c8f5ecb92547d96046013883e730998~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928E90B690BB46DE41A0A33&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=cNAge%2F89Jle8xJgYNLlWrLzrZNk%3D",group-title="「抖音」音乐",下一秒开逗（张能能）
+https://www.goodiptv.club/douyin/207050061053
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/f0010878e7ccf29576b22c90fb4a6959~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592939E8C00D81CE5C9E9568&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=SfBy0o6QoZ16wndX5KlMvedvZMA%3D",group-title="「抖音」音乐",仰望星空
+https://www.goodiptv.club/douyin/860811966085
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/e91ff6aab8956b88c59d7f69a23b2f08~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928987E41F8863A9CF13E39&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=Et3cJyc%2FgqiyG9Ulnorry56NL90%3D",group-title="「抖音」音乐",晓磊《高速小王子》922
+https://www.goodiptv.club/douyin/785855604732
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/5fff31b629d76bb40d8ef8d86427cbd7~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059285339FF5BA4FCB773CDF8&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=PqW2WCIBq3Va4duRwzClJxZpGvs%3D",group-title="「抖音」音乐",小不点💃
+https://www.goodiptv.club/douyin/93511512198
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7536456517588044553~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059235B646F2186E6977EB2F0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509163&x-signature=f2nPgR2uso7hWH%2BXKhIByUNIxC0%3D",group-title="「抖音」音乐",栋
+https://www.goodiptv.club/douyin/47317829338
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7496456271206304549~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928440768FD6BD0C321FA99&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=IcEbfu%2BEm7abMJzbtX3Bi0PZVhQ%3D",group-title="「抖音」音乐",风小筝²⁰⁸⁶
+https://www.goodiptv.club/douyin/665876242358
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7535794272302353190~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592521C47709351269CF0A25&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=VD1FL8f3wmBII04r4SA33wWX8Hk%3D",group-title="「抖音」音乐",千熹
+https://www.goodiptv.club/douyin/511377070503
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7537254769788406538~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=tB8G9Di9bwv8A2CWns4XIXmWXAo%3D",group-title="「抖音」音乐",农村老弟荆河
+https://www.goodiptv.club/douyin/171880822435
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/1ffef55ba7fdb41f86028801ce8b51c4~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=3T3AZnpooacMFOoLV%2FM8NGnVO58%3D",group-title="「抖音」音乐",霞妹儿-LINDA
+https://www.goodiptv.club/douyin/51479259276
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/7870b6583db8658e650b43bae0d30dce~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=aVWuDKLiz7gG%2FvBZnAn72wrm9tc%3D",group-title="「抖音」音乐",才艺喜洋洋2
+https://www.goodiptv.club/douyin/860866016645
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/3f29ddce0c5cfa43584e2abe6bcfde94~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=mFCAbdqmwmMVL6I7wanHrVK4JhI%3D",group-title="「抖音」音乐",丁祁夫妇
+https://www.goodiptv.club/douyin/29535645554
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7390053896581958452~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=1dzBUmueUJDIGIp0eUDM1pjCFG4%3D",group-title="「抖音」音乐",旺仔
+https://www.goodiptv.club/douyin/307790948577
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/c3c3bda69b64612aa7d30e623a603518~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059283E4CB37F16498DF28177&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=NCCa%2BnJuBkhjm1LjVaf69DweUuA%3D",group-title="「抖音」音乐",广东啊彬
+https://www.goodiptv.club/douyin/473504050948
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/caeb0aa506c4ffbf598ae8d397a54af4~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=M6Q69i%2FLwB95J0KnK0fdz2z3gaM%3D",group-title="「抖音」音乐",赵敏
+https://www.goodiptv.club/douyin/911669813691
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/f030b9ee69cb8ea13f5b0114ad0de0e3~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=JcjVQSM1YBaSCf6cnZXrK1U42fs%3D",group-title="「抖音」音乐",万姐（歌词，声卡）
+https://www.goodiptv.club/douyin/721883852150
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7534661571639380746~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592521C47709351269CF0A25&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509165&x-signature=UzunkGoXlvl4AE1ykNyVZb1fTgY%3D",group-title="「抖音」音乐",儿歌早教启蒙0-3岁儿歌大全（可教学）
+https://www.goodiptv.club/douyin/636503640924
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/b8b6e36888617b977e3e29da42f5be06~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205929157F492B6F961DC00E16&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=mvm8buemM7PvfTKawMCtM9nPqp0%3D",group-title="「抖音」音乐",刘三妹 晚上8点20开播
+https://www.goodiptv.club/douyin/301753377965
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/0463554bbeb5ad70453b9ade69a7d681~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592784F9ACFE410F23749BCA&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509167&x-signature=577cy6E8GUoxg%2B9er4FNClm9fWE%3D",group-title="「抖音」音乐",恰恰黄（父女档）
+https://www.goodiptv.club/douyin/861456861334
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/243afba5972094e77fc0ccb0e64909b0~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=LlKt3RmT8Tx%2BRJrAMcrgnEpb980%3D",group-title="「抖音」音乐",李哥编山歌
+https://www.goodiptv.club/douyin/697547670890
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7529860051000085302~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205929D264077AA4C67DA21499&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=s762kAGtNCm%2F6AmxWv0vUSmep7c%3D",group-title="「抖音」音乐",长宏曲剧团
+https://www.goodiptv.club/douyin/42603489184
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_d759fb4bf22e64bdb30f21ef994bf805~tplv-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059296A7B7A33CF8C511E7ECC&s=web_feed&sc=webcast_cover",group-title="「抖音」音乐",过客！（承蒙厚爱）
+https://www.goodiptv.club/douyin/854132489798
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6714a767d17b109089181ff2aeae156e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592913CEF64149F218AFAFB5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=CfAh9Y4e30hZUjW%2FNdRwIZXjGyo%3D",group-title="「抖音」音乐",四川隔壁小王
+https://www.goodiptv.club/douyin/344041769909
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7451243000829643560~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205928280E1103DDC40473D513&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509168&x-signature=rOQ%2F1YLbjJJx56%2FgqrvBFqwyoFU%3D",group-title="「抖音」音乐",刘姐姐1晚上7点40分开播
+https://www.goodiptv.club/douyin/316880581651
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7503506884962110242~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=kstMHLfcZuID52XZZvpU5Tr2egM%3D",group-title="「抖音」音乐",玛莎爱生活❤️（团队招人）
+https://www.goodiptv.club/douyin/690010100814
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7106105455264680736~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593041C22381A25B03AA9119&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=MHIB9hKA12GBHvdQ%2Fb0vV%2Br1U6c%3D",group-title="「抖音」音乐",五妹
+https://www.goodiptv.club/douyin/468688338709
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7520949601226984227~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205929DB0F922F47304283E48F&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=0e%2BWHG4ba4TdcIMU0XMcuVuM4Ww%3D",group-title="「抖音」音乐",你的凤子u👾
+https://www.goodiptv.club/douyin/61908386770
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/89f9f36d39415a2dae1058ef9ffb2242~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592677AE833E4B79CE97C974&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=%2FWqBAbYI2VHSbibTwQxr66DGKpg%3D",group-title="「抖音」音乐",岳哥甄选
+https://www.goodiptv.club/douyin/265558325725
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/160706b3a45120a6039a2873c3269ead~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059261D9D88EE393B969485A0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509166&x-signature=DceblMyHIFzLIGghSRq9wM%2B38nM%3D",group-title="「抖音」音乐",李和生活号
+https://www.goodiptv.club/douyin/172062610695
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/2bd285acccb4464f27b672553759e054~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293C2F925633F02EC4C803&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=hWPiyl3bzxU%2BoH%2FXOfnvqTLAC8Q%3D",group-title="「抖音」时尚",Luogui私服轻奢
+https://www.goodiptv.club/douyin/594527566371
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/af4c3fb0c3d807eef046acdc595a0e68~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=mIIdUIgehPmwrMd8%2BawkVDLQtxI%3D",group-title="「抖音」时尚",徐秋阳现货号2号
+https://www.goodiptv.club/douyin/401395398195
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/589d8803b254d6242a1a66a3aa60a512~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059318C0ECAEF56AEAAC207CD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=xRKI9N7kvI8gx68nKUCrwkaJ4t8%3D",group-title="「抖音」时尚",梦君
+https://www.goodiptv.club/douyin/110568600838
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/6f3515a778c218da7d33ee3912334a0e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059293C2F925633F02EC4C803&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=PVSnHwlyud7GNv5kYPB1t%2FrE5nQ%3D",group-title="「抖音」时尚",绮梦高定女装
+https://www.goodiptv.club/douyin/508850163926
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7287541476023044919~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=WvA677vW%2BCC2ZFn7jbjqN9BjLG8%3D",group-title="「抖音」时尚",语辰家女装优选
+https://www.goodiptv.club/douyin/791141100664
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/055e3f03ff928f6eef324f14bc31937b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=NY8RaprYw7DWw83mwWC6R%2BcfWkk%3D",group-title="「抖音」时尚",非凡 工作室
+https://www.goodiptv.club/douyin/562142328870
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/80fff2ef47938c35f1f7e1f4839babd0~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=w9OLX%2BmM0ZiDbeqqXR6z%2FdJMCPw%3D",group-title="「抖音」时尚",依然服饰女装
+https://www.goodiptv.club/douyin/432656069173
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/36b12482085c0ed291403ee43a01923d~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=BE5hIytUTrCrK6NYzyZttZiAcr4%3D",group-title="「抖音」时尚",大姐姐🧍‍♀️（重生归来之皮草）
+https://www.goodiptv.club/douyin/452448879204
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7471962830074317608~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=U4QEB2ty7Btrjgn6SL4yrsFyZu0%3D",group-title="「抖音」时尚",鸡蛋D穿搭
+https://www.goodiptv.club/douyin/254065227239
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7151709722004163342~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=7ZxvyGd2dwGhLKkSmL7m6H3QLUc%3D",group-title="「抖音」时尚",裴裴我啊
+https://www.goodiptv.club/douyin/108542370434
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/7ff2c093039a7a1f4318f77e558cc7bb~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=It0%2B6UgF1XxUEI9HIvmKTZjNX4g%3D",group-title="「抖音」时尚",衫衫的服装店二号店
+https://www.goodiptv.club/douyin/562132168352
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7506103287201041188~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=P4UJ252LIFqHZnwvC%2Fy7PHsqoDc%3D",group-title="「抖音」时尚",金喜针织优选
+https://www.goodiptv.club/douyin/415258824586
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/3e2e5156d41a955f9aea753753883172~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=k3db%2FjaEvrlLIF7OtDwYeNwg5ns%3D",group-title="「抖音」时尚",乐桃的小店
+https://www.goodiptv.club/douyin/695619503641
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/1b431fc8c7e2703bfa7f2d634aa5e44f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=zJ8qg2dBr1Q%2FN9g6t7WTN5TTlC8%3D",group-title="「抖音」时尚",ai妮（8.11号晚 秋款大上新）
+https://www.goodiptv.club/douyin/245688855013
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7497763364425435955~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=rAYWXFbkXDnMHnl1pJTyIfXYhSU%3D",group-title="「抖音」时尚",OVERSIZE纯棉卫衣T恤【织恬工厂】
+https://www.goodiptv.club/douyin/868128874769
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7491649850564430619~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=UgozuwpjtDOYLPKxZ7qNBy4am5k%3D",group-title="「抖音」时尚",小雨羊绒工厂直销店
+https://www.goodiptv.club/douyin/303545421901
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/32f6afd4dae491f0d8535216329d5099~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=WDdbUBZCrdvr9Ji24323pVw6Yik%3D",group-title="「抖音」时尚",杭州市黄岩雨婷服装厂
+https://www.goodiptv.club/douyin/54341792145
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7478298827045473034~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=BOFKVN63IIaOnqhSOQNuQJuj9kg%3D",group-title="「抖音」时尚",梦梦一米五
+https://www.goodiptv.club/douyin/168808644388
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/529e3c8affcac4213563c03b569f22c7~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=jKbzpRocyn1cNk5l87jpZ0IiAuM%3D",group-title="「抖音」时尚",郑州女裤敏姐工厂
+https://www.goodiptv.club/douyin/635841640446
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/22b6303d2f8ea05d50ae11be3ab12448~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=y5AexVr8NnvYfC%2FQ0qvp4dXnOt8%3D",group-title="「抖音」时尚",澳门bee哥（生活号）
+https://www.goodiptv.club/douyin/207903397959
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/9152eb7d44ba245d2f2db82adbeeb680~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=Ho9F8vAX7W8Nus84Q00ANcoE0%2B8%3D",group-title="「抖音」时尚",MMe
+https://www.goodiptv.club/douyin/52477667348
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7512063170448018191~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=lRyQ%2BovdAMaRaBqQcq9Yfdb2irA%3D",group-title="「抖音」时尚",依与棉麻（可儿原创三店）
+https://www.goodiptv.club/douyin/877126232248
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/063167cc0dd24f8e3359d7e6d5a99dc9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=CLzQCxOUBQOcpU2%2FGVHDJlL8WI4%3D",group-title="「抖音」时尚",文文连衣裙工厂店
+https://www.goodiptv.club/douyin/148286327396
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/8ca6da24288a886649670bfa2a61d1bb~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205930775507825F9312A7C5D6&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=HrXA%2FEeFpddvjQkw3R6WirzZjyo%3D",group-title="「抖音」时尚",曾曾服饰
+https://www.goodiptv.club/douyin/741735319349
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a138f6abc1f0de9c253710834a35112b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=G%2FQ1iBfVEBy%2FJOlLoRbVHvXbZgU%3D",group-title="「抖音」时尚",意大利🇮🇹斌哥
+https://www.goodiptv.club/douyin/312991670184
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/70804ae87a87e4dfe54e367bbfb222f9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=HgE8T1oMWRIN5rwfIbR8F730XNA%3D",group-title="「抖音」时尚",小菲特童装
+https://www.goodiptv.club/douyin/665219168483
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/f3cb260bae5b53c075429ed0355cda65~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=rPzhoEchiS%2FKSHcdfUP9bbvvY2E%3D",group-title="「抖音」时尚",玖月时尚女装新号(工厂清货)
+https://www.goodiptv.club/douyin/809876407997
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7537257318682217231~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=zJdN%2BQow46auBeNVwuS8Og%2FzHsU%3D",group-title="「抖音」时尚",王王王大头
+https://www.goodiptv.club/douyin/95340377915
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7463047213392907034~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=RF%2BR0lZObSgxFpWsdiLso5ocNeE%3D",group-title="「抖音」时尚",耿棚卢大婷女装工厂店
+https://www.goodiptv.club/douyin/892033039224
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/62d1f4f490e6dd76918720bbc8d07d6f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059319E9FB72154B6BD74BFBF&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509171&x-signature=aI4%2FLdw2d%2BFspOEmiOAkvKTEv0A%3D",group-title="「抖音」时尚",芊荷女裤
+https://www.goodiptv.club/douyin/149839859237
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/8c67c9298987420d55d53c68467df7a0~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593002C02D544A4B7D951962&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=aEQJQrjt%2Bmb83KeL1a5QexdrlMs%3D",group-title="「抖音」时尚",super颖子
+https://www.goodiptv.club/douyin/250780901986
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/a1afcdee9e4c111a369cdeb717425be7~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205930860C0881CA35A6DB5829&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=Q0U2Ro00U8U3KoKIRMxhMQBAE%2Bg%3D",group-title="「抖音」时尚",东哥买手集合店（女装版）
+https://www.goodiptv.club/douyin/148765641725
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a532482cf9a64a88ff2c1725778c1641~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592981D27E31F01043C0488D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=%2FYefqTqPWpAlownrp0EDviCMbj8%3D",group-title="「抖音」时尚",小小睡不醒
+https://www.goodiptv.club/douyin/649143335329
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/ec1bf175873cd08e0039423acf959532~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059323434B516FE1E2B6B253F&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=MPTJROITHiL9UMalK2mp2laH%2Bgo%3D",group-title="「抖音」时尚",浩哥女装现货号
+https://www.goodiptv.club/douyin/790996995708
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/22d986e7c8610f36d496c22275d1ba39~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059323434B516FE1E2B6B253F&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=HZldyzuCpIQZlfBw8XrnuVBfew4%3D",group-title="「抖音」时尚",十三行优家牛仔裤
+https://www.goodiptv.club/douyin/644972256416
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7535690744930159412~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=bRauNCeVJ4CQMA%2FlB17NRt5QX58%3D",group-title="「抖音」时尚",饱丹女装
+https://www.goodiptv.club/douyin/4816571777
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7499065847957244683~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=eYRiN0RY2dNq8k%2FOZ3hAXECLIXI%3D",group-title="「抖音」时尚",香香女装（晚8点开播）
+https://www.goodiptv.club/douyin/961494304977
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7352465509427858217~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=VYzc3saqRRYd3DmEoud06maQiy8%3D",group-title="「抖音」时尚",谷喜女装服饰工厂店
+https://www.goodiptv.club/douyin/707591657671
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7523154731213064996~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=sHun7OSZuqIXKQ%2BuEkGc%2FSF72T4%3D",group-title="「抖音」时尚",Madofit collection
+https://www.goodiptv.club/douyin/429495814060
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7213705907767397158~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=uIKoh2I5gmxAbUD1RxKSJ0dc3Tk%3D",group-title="「抖音」时尚",小莹 （孕中期）
+https://www.goodiptv.club/douyin/899971348989
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7531483369511881523~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=hJ69J1gDgv1okhliVWRbOc8bHNc%3D",group-title="「抖音」时尚",丸子seoul
+https://www.goodiptv.club/douyin/746574227922
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7490029562945506102~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=8NyPO%2FAWPReddHZ2eb%2B%2BFtxD8ys%3D",group-title="「抖音」时尚",沐源棉麻大码
+https://www.goodiptv.club/douyin/835390195789
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7507936095808719668~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=CXlNOKMChwo%2Bm7XsFxKul4TD2oY%3D",group-title="「抖音」时尚",贝柚女装店
+https://www.goodiptv.club/douyin/925050928219
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/6a9aeffd5474e95b047c60a19c443ca6~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593214BAC900670DB3157D15&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=riFVwtFNhyLmXKUCk5zIAWv7JKY%3D",group-title="「抖音」时尚",萱萱辰精品服饰（晚上7点开播）
+https://www.goodiptv.club/douyin/290554575157
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7527263156679428910~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=xP1NYmTfk0MTynaGffMC1fUZxvc%3D",group-title="「抖音」时尚",丽子小姐
+https://www.goodiptv.club/douyin/415956811238
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7257521254226316069~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=6ZLMJ0PYXMztydwz%2F9m%2FGef8o3g%3D",group-title="「抖音」时尚",卡纯朵内衣授权号
+https://www.goodiptv.club/douyin/260831549813
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7074188882027350791~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=RoUoVd2N1zrp7o4ZBlLKnwP%2BOLw%3D",group-title="「抖音」时尚",KIMI精选
+https://www.goodiptv.club/douyin/582931922038
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7506861093441440539~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=V%2FapRtxnjwRn7w9L2yIojAMOT%2BY%3D",group-title="「抖音」时尚",小雨（爆单版
+https://www.goodiptv.club/douyin/74202951128
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7532851002890963722~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=UWq1SgYgtLVxDd2D611pBvO4cAs%3D",group-title="「抖音」时尚",54526848772
+https://www.goodiptv.club/douyin/35116984133
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7238448663281027880~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=1CkDYmqER0EyeaBl98w3HCHqZ2s%3D",group-title="「抖音」时尚",陈Tutu FLOTA女装
+https://www.goodiptv.club/douyin/145594707558
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/8d70a28efac62d91e527e3b67531df65~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205934D8D87135E9D523AD6F3D&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509174&x-signature=QVziK4lrDXc8TAAqPAcdYoRxjIo%3D",group-title="「抖音」时尚",5072仓库店
+https://www.goodiptv.club/douyin/65854324977
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c7d9a871e34b3d56bf1dd061773e7abd~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&s=web_feed&sc=webcast_cover",group-title="「抖音」时尚",阿文珠宝甄选
+https://www.goodiptv.club/douyin/818580715036
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/4ec586418453606fdba6ae247c6d7893~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593159A391322EC38DCEECAF&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509171&x-signature=Rq%2Fu%2B%2FGscEFIHbp18hNke0saVKY%3D",group-title="「抖音」时尚",慧雅香云纱
+https://www.goodiptv.club/douyin/648501966528
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7242887802522553120~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205934680B1675A316EF470100&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509174&x-signature=AqAwEIo%2FJVpR9gB4woYi2E6KalE%3D",group-title="「抖音」时尚",岚小咪
+https://www.goodiptv.club/douyin/3972596074
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7532453718516599587~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933CE7869F89E3C748902E8&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=44J9%2FJ9SKxCSf6Vze9iUFwkQqHo%3D",group-title="「抖音」时尚",千寻服饰2号店
+https://www.goodiptv.club/douyin/748126374624
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7520820637527739187~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933844EF8A399333C789F1E&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=nauTz0OCl5f5rjLXVqH%2BRyYeM2E%3D",group-title="「抖音」时尚",SUXI素夕
+https://www.goodiptv.club/douyin/320834499680
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/fcf75ea6555562ccfc13c4c74c345e72~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593257D5761EFED361D0D4D1&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=%2FwGuwAj2qLKbg4jv2O2m1%2FhriWA%3D",group-title="「抖音」时尚",Chimi
+https://www.goodiptv.club/douyin/556254818881
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0a28f56169fb22805adec53ecaa61324~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592957D5761EFED361D0D2F0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=vCwlM3Xtm7WS9UmZ0%2FdmlQ9Mv%2FM%3D",group-title="「抖音」时尚",是江江.
+https://www.goodiptv.club/douyin/124796978974
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7390967070470490921~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592957D5761EFED361D0D2F0&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509169&x-signature=KvnNar0DH3zDi0eOIGr0OQJRv0I%3D",group-title="「抖音」时尚",甜心甜服饰女装
+https://www.goodiptv.club/douyin/941611378135
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/3ce8f2ff7d5a89aa1aa97c8cedd51475~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205931DF81121BB162E5A28C0C&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=6sFBptG8h4AxnexhilDSz6HeoHA%3D",group-title="「抖音」时尚",647服装店
+https://www.goodiptv.club/douyin/887324383268
+#EXTINF:-1 tvg-logo="https://p11-webcast.douyinpic.com/img/aweme-avatar/douyin-user-image-file_ab1c82fb6aac9e5e172346a04bf6942c~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593029D4009B019E79BB5C55&s=web_feed&sc=webcast_cover",group-title="「抖音」时尚",龙哥反季女装(品牌清货)
+https://www.goodiptv.club/douyin/957468510020
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/d0d3b625fa7a8f3e5d3d0d06edb5c3ac~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=4l%2BunFkpXWFE4KW9s9Ixvqdx0W8%3D",group-title="「抖音」时尚",兰爵服饰
+https://www.goodiptv.club/douyin/129253847847
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/2e0313254a08353125f0619616abe0d5~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=%2FFX84iRPxNyRaK6c22mN2m126wM%3D",group-title="「抖音」时尚",张小仙儿·
+https://www.goodiptv.club/douyin/9015604993
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/309cf494b621621b0124893c0bdb6d32~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593029D4009B019E79BB5C55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509171&x-signature=DbEeJl6fHDjR79jCGdzokKMLWPg%3D",group-title="「抖音」时尚",重庆朝天门尚品胖小妞服装批发
+https://www.goodiptv.club/douyin/484681309066
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/15357bf52f35b7ddf5b813b1259d69b8~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=AZBxZr1Pml9u%2FI8ZKazqW19I9cA%3D",group-title="「抖音」时尚",宁诺绮美女装
+https://www.goodiptv.club/douyin/541958093545
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7482063614262856488~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593029D4009B019E79BB5C55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509171&x-signature=7ZPdPISuk8BHP1odFf0JKv%2FTBYk%3D",group-title="「抖音」时尚",凯特小娅家（清货场）
+https://www.goodiptv.club/douyin/286069066222
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7292000680234208000~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120592911DE5E07541953DB5E94&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509170&x-signature=8slNp1G3oDkLKWanqMHuQXbQhCU%3D",group-title="「抖音」时尚",梨的杂货店。（微胖大码版）
+https://www.goodiptv.club/douyin/33504614999
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7502400354481064755~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=LQsWlCv47FU5Zg2xZfwsxs3XRcY%3D",group-title="「抖音」时尚",扶摇优选
+https://www.goodiptv.club/douyin/776838025904
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/000e8b546196c74d6987b6ce83cf92d9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593029D4009B019E79BB5C55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509171&x-signature=ix77IeHkVK7iZ9K%2BHjvZE3bDMto%3D",group-title="「抖音」时尚",芳芳轻奢女鞋1
+https://www.goodiptv.club/douyin/503293981121
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/b8f7639182bb152a857d483d4b12cc5b~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=nlEoOeYas71j%2Fh5LQDtk44TDpEY%3D",group-title="「抖音」时尚",宝利优选（现货号）
+https://www.goodiptv.club/douyin/535261542674
+#EXTINF:-1 tvg-logo="https://p3-webcast.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_202815aa16d7e6dc1b0870b7bddd0a20~tplv-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593029D4009B019E79BB5C55&s=web_feed&sc=webcast_cover",group-title="「抖音」时尚",米哥都行
+https://www.goodiptv.club/douyin/9356127024
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7340144744422968105~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=oc%2BxSz8y9sA3eJp37jLQ8%2BVx%2BGk%3D",group-title="「抖音」时尚",Big静女装定制
+https://www.goodiptv.club/douyin/780671216531
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/feea5c277ba9aebcb28a3336a0b780dc~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=f05e0Ovm8XLjhLg7%2FLB4mPeMRjk%3D",group-title="「抖音」时尚",薇小蜜服饰
+https://www.goodiptv.club/douyin/814446822823
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/aa0e7f88c89747ff8b5f0721972c3133~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205935CB62736C327E3182DCAA&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509175&x-signature=WeCP6TBNBm9P8WtzBqyUYrOoH8Q%3D",group-title="「抖音」时尚",鞋匠小明（高定女鞋）
+https://www.goodiptv.club/douyin/4919853526
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/e1f2479b149d1a2bf74356ddbe2784ea~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059349B9E525A6933378D7682&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509174&x-signature=GCUg5ZZby5yqXdCF3A8ICIXrh9A%3D",group-title="「抖音」时尚",吉库范买手服饰（宝儿十三行拼单）
+https://www.goodiptv.club/douyin/355558375172
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7358801900222925578~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=6nTO5JdBpc2XI5auqiaHOwFZcfo%3D",group-title="「抖音」时尚",漫步佳人—郯城
+https://www.goodiptv.club/douyin/292084656173
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7456673568852740914~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059346B5636BAD380B08E37AD&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509174&x-signature=3z%2Bi4f22QTWicnS0cn9S4CKcPo0%3D",group-title="「抖音」时尚",江南国风女装穿搭
+https://www.goodiptv.club/douyin/498450594529
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/55981c05674bd48f9fbf793d7c1cbf24~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=pUCSS%2BL1Zvqneqt54cfgVrCmoRI%3D",group-title="「抖音」时尚",柏雅优品服装
+https://www.goodiptv.club/douyin/155676003898
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/9c5f146f78a3881f418a672a7f52d862~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=P7T0PVeW05T6sYmi4Fp5Cv4iWiI%3D",group-title="「抖音」时尚",果果女装搭配
+https://www.goodiptv.club/douyin/850391329246
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7537281342640556800~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=orhGxCaiKhoC1FuxMRebsrJKPvU%3D",group-title="「抖音」时尚",Utwo-小敏
+https://www.goodiptv.club/douyin/146631625078
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/da333ddf06d6bc6d562390cef206202e~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=Lh8B2K%2BwPdMKg1Y36TEdx5o7Emw%3D",group-title="「抖音」时尚",鹿鹿大码女装服饰
+https://www.goodiptv.club/douyin/386851924252
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/bcd17f27e738bddbce3fef05fb5999b3~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593029D4009B019E79BB5C55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509171&x-signature=ZUY8FHP%2FONFoo73sTdIJl8RdEdM%3D",group-title="「抖音」时尚",服装人鹏哥
+https://www.goodiptv.club/douyin/890618535743
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/42b37dc6af4324805eda9c3dee1c80ed~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=fStPE2hvAxJ89uxVvwUSYLPua7k%3D",group-title="「抖音」时尚",绢色丝语古着
+https://www.goodiptv.club/douyin/652937135053
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7535374329652202280~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059348D1F87EAF7557C29EA40&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509174&x-signature=6hcaRTZp6uJ2hDSeSPX%2FvYCb8zA%3D",group-title="「抖音」时尚",赵阳Klas⚡️
+https://www.goodiptv.club/douyin/870065140045
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/05a0bdd5bce04d60f5be057d4f4ce6db~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=qs%2BjyFoifLgxXdGDXV3DT92omfg%3D",group-title="「抖音」时尚",佳仁甄选珠宝（碧玺专场）
+https://www.goodiptv.club/douyin/606530161995
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/659358aa9cd5578ac3f99fd7907a303a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=wqZq2rdPUED0mMJJyS04Z9l1cnA%3D",group-title="「抖音」时尚",多比熊潮童店
+https://www.goodiptv.club/douyin/17109929426
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/webcast-cover/7524742815521983284~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=gp5AydOD5E3g231vDofRn11TWy8%3D",group-title="「抖音」时尚",𝐒𝐮𝐦𝐦𝐞𝐫.
+https://www.goodiptv.club/douyin/71687844250
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/709a6ae18a1930d3cf9d3891a1d5796a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=cxaEJj%2FOgg9NcKhpvDjNBJ904Sc%3D",group-title="「抖音」时尚",小可服饰
+https://www.goodiptv.club/douyin/13917804916
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/d3584387c08355948cbf58ec85eb6cd3~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=iMEJm9l%2BIw00X4j7vsOGMbIdBBs%3D",group-title="「抖音」时尚",大叔vs丫头
+https://www.goodiptv.club/douyin/284089210507
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/webcast-cover/7341955641285626659~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=NV8oIFynqTWmJhOKuDru8d%2FUWO8%3D",group-title="「抖音」时尚",WEIWEI薇薇（现货场）
+https://www.goodiptv.club/douyin/939785876235
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/bb2518b6173bbe84170f59ff38995fb1~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=zgj6EhkYweHEw1Vm%2FBieYj8rku8%3D",group-title="「抖音」时尚",深圳有点意思SISI
+https://www.goodiptv.club/douyin/443524400682
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/111ebdbf38762238fd7e40251b01997c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=EA2G2tl%2Fn%2B5iNagwHSb%2Bqz6Nj8Y%3D",group-title="「抖音」时尚",潮派服饰买手店
+https://www.goodiptv.club/douyin/892952862394
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/185d7317ede34a95dfb8019254e2367a~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=PhgA3Cjng54KTgleZf8rTQrxiX0%3D",group-title="「抖音」时尚",CKKOR服饰旗舰店
+https://www.goodiptv.club/douyin/405172817086
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/20ed155b71bd4369a6912f6420fa0c4f~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=lAQFXbznml0YiscWQhJeq3pPT24%3D",group-title="「抖音」时尚",大莹心选
+https://www.goodiptv.club/douyin/63251986135
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/4198896bf2a253e06861f2edadb137da~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=0qsninCktQFP2YxnTQ0z8Fgbdhc%3D",group-title="「抖音」时尚",坤总𝓚𝓾𝓷_安妮
+https://www.goodiptv.club/douyin/987568355872
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/a1a94ad553e042170320fbeff9fb68e9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=2025081120593257D5761EFED361D0D4D1&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=QGhDNvQoQ1hdeE6CAp7ECNgfKyw%3D",group-title="「抖音」时尚",东北娜姐
+https://www.goodiptv.club/douyin/10320434912
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/613777d8443b29e19fbb34f73e01960c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205932EB6A6F1C70D717D74E55&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=pPT9pCPFrYc0DO%2FMls3JNrRCOZE%3D",group-title="「抖音」时尚",卡丁女装店
+https://www.goodiptv.club/douyin/42327327060
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/52b78ff15bc4628ad36ed6b6e22b7b5c~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933314A8AD7C04714771197&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=WYHevzUv2010GL6WELw5moSraSQ%3D",group-title="「抖音」时尚",格外服饰2店
+https://www.goodiptv.club/douyin/107149107459
+#EXTINF:-1 tvg-logo="https://p3-webcast-sign.douyinpic.com/image-cut-tos-priv/115f7abeb05b4a0ab74dfe4c375a58e5~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=20250811205933F6E784F0906EFF43A337&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509173&x-signature=9nbihDn8s8ktc4F2k83LVDYpnx4%3D",group-title="「抖音」时尚",软软糯🦦
+https://www.goodiptv.club/douyin/749061103087
+#EXTINF:-1 tvg-logo="https://p11-webcast-sign.douyinpic.com/image-cut-tos-priv/0f39c2826e3a406f2bf455958bce56b9~tplv-qz53dukwul-common-resize:360:0.image?biz_tag=app_6383_webcast&from=webcast.room.pack&l=202508112059327DE483B22175F3E88FD5&lk3s=39e7556e&s=web_feed&sc=webcast_cover&x-expires=1757509172&x-signature=pzTwZ1FpFPoRB9%2F6KtTOdoj8uHk%3D",group-title="「抖音」时尚",这家服装超好看
+https://www.goodiptv.club/douyin/537573819565
