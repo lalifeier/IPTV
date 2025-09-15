@@ -35,7 +35,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 97f9cb57ecbc4286 &bull; 2025-09-15 17:20:24 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 97fa37f0eb2d4286 &bull; 2025-09-15 18:34:32 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -59,7 +59,7 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">97f9cb57ecbc4286</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">97fa37f0eb2d4286</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
