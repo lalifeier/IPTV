@@ -42,7 +42,7 @@ NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 News18 India,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
 寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+公視 網路直播頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 MediaoneTV Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
 TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 NewsTamil24x7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
