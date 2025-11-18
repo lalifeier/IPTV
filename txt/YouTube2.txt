@@ -30,7 +30,7 @@ Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 中天電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 大愛一臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS NEWS 24小時直播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
